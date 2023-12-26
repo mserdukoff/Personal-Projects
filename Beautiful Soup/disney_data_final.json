@@ -1,0 +1,3991 @@
+[
+  {
+    "title": "Mystic Pizza",
+    "Directed by": "Donald Petrie",
+    "Screenplay by": [
+      "Amy Holden Jones",
+      "Perry Howze",
+      "Randy Howze",
+      "Alfred Uhry"
+    ],
+    "Story by": "Amy Holden Jones",
+    "Produced by": [
+      "Mark Levinson",
+      "Scott Rosenfelt"
+    ],
+    "Starring": [
+      "Annabeth Gish",
+      "Julia Roberts",
+      "Lili Taylor",
+      "Vincent D'Onofrio",
+      "William R. Moses",
+      "Adam Storke",
+      "Conchata Ferrell"
+    ],
+    "Cinematography": "Tim Suhrstedt",
+    "Edited by": [
+      "Don Brochu",
+      "Marion Rothman"
+    ],
+    "Music by": "David McHugh",
+    "Distributed by": "The Samuel Goldwyn Company",
+    "Release dates": [
+      "October 18, 1988 ( 1988-10-18 ) (premiere)",
+      "October 21, 1988 ( 1988-10-21 ) (United States)"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$6 million",
+    "Box office": "$14 million",
+    "Running time (int)": 104,
+    "Budget (float)": 6000000.0,
+    "Box office (float)": 14000000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.3",
+    "metascore": "60",
+    "rotten_tomatoes": "78%"
+  },
+  {
+    "title": "The Good Mother",
+    "Directed by": "Leonard Nimoy",
+    "Screenplay by": "Michael Bortman",
+    "Based on": [
+      "The Good Mother",
+      "by",
+      "Sue Miller"
+    ],
+    "Produced by": "Arne Glimcher",
+    "Starring": [
+      "Diane Keaton",
+      "Liam Neeson",
+      "Jason Robards",
+      "Ralph Bellamy"
+    ],
+    "Cinematography": "David Watkin",
+    "Edited by": "Peter E. Berger",
+    "Music by": "Elmer Bernstein",
+    "Production companies": [
+      "Touchstone Pictures",
+      "Silver Screen Partners IV"
+    ],
+    "Distributed by": "Buena Vista Pictures Distribution",
+    "Release date": [
+      "November 4, 1988 ( 1988-11-04 )"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$14 million",
+    "Box office": "$4,764,606",
+    "Running time (int)": 103,
+    "Budget (float)": 14000000.0,
+    "Box office (float)": 4764606.0,
+    "Release date (datetime)": "November 04, 1988",
+    "imdb": "5.7",
+    "metascore": "N/A",
+    "rotten_tomatoes": "50%"
+  },
+  {
+    "title": "Field of Dreams",
+    "Directed by": "Phil Alden Robinson",
+    "Screenplay by": "Phil Alden Robinson",
+    "Based on": [
+      "Shoeless Joe",
+      "by",
+      "W.P. Kinsella"
+    ],
+    "Produced by": [
+      "Lawrence Gordon",
+      "Charles Gordon"
+    ],
+    "Starring": [
+      "Kevin Costner",
+      "Amy Madigan",
+      "James Earl Jones",
+      "Ray Liotta",
+      "Burt Lancaster"
+    ],
+    "Cinematography": "John Lindley",
+    "Edited by": "Ian Crafford",
+    "Music by": "James Horner",
+    "Production company": "Gordon Company",
+    "Distributed by": [
+      "Universal Pictures (United States)",
+      "Carolco Pictures (International)"
+    ],
+    "Release date": [
+      "May 5, 1989 ( 1989-05-05 ) (United States)"
+    ],
+    "Running time": "107 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$15 million",
+    "Box office": "$84.4 million",
+    "Running time (int)": 107,
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 84400000.0,
+    "Release date (datetime)": "May 05, 1989",
+    "imdb": "7.5",
+    "metascore": "57",
+    "rotten_tomatoes": "88%"
+  },
+  {
+    "title": "School Ties",
+    "Directed by": "Robert Mandel",
+    "Screenplay by": [
+      "Dick Wolf",
+      "Darryl Ponicsan"
+    ],
+    "Story by": "Dick Wolf",
+    "Produced by": [
+      "Stanley R. Jaffe",
+      "Sherry Lansing",
+      "Michael Tadross"
+    ],
+    "Starring": "Brendan Fraser",
+    "Cinematography": "Freddie Francis",
+    "Edited by": [
+      "Jerry Greenberg",
+      "Jacqueline Cambas"
+    ],
+    "Music by": "Maurice Jarre",
+    "Production company": "Jaffe/Lansing Production",
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "September 11, 1992 ( 1992-09-11 )"
+    ],
+    "Running time": "110 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$18 million",
+    "Box office": "$14.7 million",
+    "Running time (int)": 110,
+    "Budget (float)": 18000000.0,
+    "Box office (float)": 14700000.0,
+    "Release date (datetime)": "September 11, 1992",
+    "imdb": "6.9",
+    "metascore": "65",
+    "rotten_tomatoes": "60%"
+  },
+  {
+    "title": "Geronimo: An American Legend",
+    "Directed by": "Walter Hill",
+    "Written by": [
+      "John Milius",
+      "Larry Gross"
+    ],
+    "Story by": "John Milius",
+    "Produced by": [
+      "Neil Canton",
+      "Walter Hill"
+    ],
+    "Starring": [
+      "Jason Patric",
+      "Robert Duvall",
+      "Gene Hackman",
+      "Matt Damon",
+      "Wes Studi"
+    ],
+    "Cinematography": "Lloyd Ahern",
+    "Edited by": [
+      "Donn Aron",
+      "Carmel Davies"
+    ],
+    "Music by": "Ry Cooder",
+    "Distributed by": "Columbia Pictures",
+    "Release date": [
+      "December 10, 1993 ( 1993-12-10 )"
+    ],
+    "Running time": "115 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$35 million",
+    "Box office": "$18.6 million",
+    "Running time (int)": 115,
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 18600000.0,
+    "Release date (datetime)": "December 10, 1993",
+    "imdb": "6.5",
+    "metascore": "58",
+    "rotten_tomatoes": "48%"
+  },
+  {
+    "title": "Glory Daze",
+    "Directed by": "Rich Wilkes",
+    "Written by": "Rich Wilkes",
+    "Produced by": [
+      "Michael Scott Bloom",
+      "Chris J. Slater",
+      "(co-producer)"
+    ],
+    "Starring": [
+      "Ben Affleck",
+      "Sam Rockwell",
+      "Megan Ward",
+      "French Stewart"
+    ],
+    "Cinematography": "Christopher Taylor",
+    "Edited by": "Richard Candib",
+    "Music by": "Warren Fitzgerald",
+    "Production company": "Seventh Art Productions",
+    "Distributed by": [
+      "Fusion Studios, Inc.",
+      "Woodward Productions",
+      "Weiny Bro Productions"
+    ],
+    "Release dates": [
+      "October 1, 1995 ( 1995-10-01 ) ( Hamptons International Film Festival )",
+      "July 27, 1996 ( 1996-19-27 ) (theatrical)"
+    ],
+    "Running time": "100 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$15,134",
+    "Running time (int)": 100,
+    "Budget (float)": null,
+    "Box office (float)": 15134.0,
+    "Release date (datetime)": null,
+    "imdb": "5.6",
+    "metascore": "N/A",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Courage Under Fire",
+    "Directed by": "Edward Zwick",
+    "Written by": "Patrick Sheane Duncan",
+    "Produced by": [
+      "John Davis",
+      "Joseph M. Singer",
+      "David T. Friendly"
+    ],
+    "Starring": [
+      "Denzel Washington",
+      "Meg Ryan",
+      "Lou Diamond Phillips",
+      "Michael Moriarty",
+      "Matt Damon",
+      "Seth Gilliam",
+      "Bronson Pinchot",
+      "Scott Glenn"
+    ],
+    "Cinematography": "Roger Deakins",
+    "Edited by": "Steven Rosenblum",
+    "Music by": "James Horner",
+    "Production companies": [
+      "Davis Entertainment",
+      "Joseph M. Singer Entertainment",
+      "Friendly Films",
+      "Fox 2000 Pictures"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "July 12, 1996 ( 1996-07-12 )"
+    ],
+    "Running time": "116 minutes",
+    "Language": "English",
+    "Box office": "$100.9 million",
+    "Running time (int)": 116,
+    "Budget (float)": null,
+    "Box office (float)": 100900000.0,
+    "Release date (datetime)": "July 12, 1996",
+    "imdb": "6.6",
+    "metascore": "77",
+    "rotten_tomatoes": "86%"
+  },
+  {
+    "title": "Chasing Amy",
+    "Directed by": "Kevin Smith",
+    "Written by": "Kevin Smith",
+    "Produced by": "Scott Mosier",
+    "Starring": [
+      "Ben Affleck",
+      "Joey Lauren Adams",
+      "Jason Lee",
+      "Dwight Ewell",
+      "Jason Mewes"
+    ],
+    "Cinematography": "David Klein",
+    "Edited by": [
+      "Scott Mosier",
+      "Kevin Smith"
+    ],
+    "Music by": "David Pirner",
+    "Production companies": [
+      "View Askew Productions",
+      "Too Askew Prod., Inc."
+    ],
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "April 4, 1997 ( 1997-04-04 )"
+    ],
+    "Running time": "113 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$250,000",
+    "Box office": "$12 million",
+    "Running time (int)": 113,
+    "Budget (float)": 250000.0,
+    "Box office (float)": 12000000.0,
+    "Release date (datetime)": "April 04, 1997",
+    "imdb": "7.2",
+    "metascore": "71",
+    "rotten_tomatoes": "86%"
+  },
+  {
+    "title": "The Rainmaker",
+    "Directed by": "Francis Ford Coppola",
+    "Screenplay by": "Francis Ford Coppola",
+    "Narration by": "Michael Herr",
+    "Based on": [
+      "The Rainmaker",
+      "by",
+      "John Grisham"
+    ],
+    "Produced by": [
+      "Michael Douglas",
+      "Fred Fuchs",
+      "Steven Reuther"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Claire Danes",
+      "Jon Voight",
+      "Mary Kay Place",
+      "Mickey Rourke",
+      "Danny DeVito"
+    ],
+    "Cinematography": "John Toll",
+    "Edited by": [
+      "Melissa Kent",
+      "Barry Malkin"
+    ],
+    "Music by": "Elmer Bernstein",
+    "Production companies": [
+      "American Zoetrope",
+      "Constellation Films"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "November 21, 1997 ( 1997-11-21 )"
+    ],
+    "Running time": "135 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$45.9 million",
+    "Running time (int)": 135,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 45900000.0,
+    "Release date (datetime)": "November 21, 1997",
+    "imdb": "7.2",
+    "metascore": "72",
+    "rotten_tomatoes": "83%"
+  },
+  {
+    "title": "Good Will Hunting",
+    "Directed by": "Gus Van Sant",
+    "Written by": [
+      "Ben Affleck",
+      "Matt Damon"
+    ],
+    "Produced by": "Lawrence Bender",
+    "Starring": [
+      "Robin Williams",
+      "Matt Damon",
+      "Ben Affleck",
+      "Stellan Skarsgård",
+      "Minnie Driver"
+    ],
+    "Cinematography": "Jean-Yves Escoffier",
+    "Edited by": "Pietro Scalia",
+    "Music by": "Danny Elfman",
+    "Production company": "Be Gentlemen",
+    "Distributed by": "Miramax Films",
+    "Release dates": [
+      "December 2, 1997 ( 1997-12-02 ) ( Bruin Theater )",
+      "December 5, 1997 ( 1997-12-05 ) (United States)"
+    ],
+    "Running time": "126 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$225.9 million",
+    "Running time (int)": 126,
+    "Budget (float)": 10000000.0,
+    "Box office (float)": 225900000.0,
+    "Release date (datetime)": null,
+    "imdb": "8.3",
+    "metascore": "70",
+    "rotten_tomatoes": "96%"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "Directed by": "Steven Spielberg",
+    "Written by": "Robert Rodat",
+    "Produced by": [
+      "Steven Spielberg",
+      "Ian Bryce",
+      "Mark Gordon",
+      "Gary Levinsohn"
+    ],
+    "Starring": [
+      "Tom Hanks",
+      "Edward Burns",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "Cinematography": "Janusz Kamiński",
+    "Edited by": "Michael Kahn",
+    "Music by": "John Williams",
+    "Production companies": [
+      "DreamWorks Pictures",
+      "Paramount Pictures",
+      "Amblin Entertainment",
+      "Mutual Film Company"
+    ],
+    "Distributed by": [
+      "DreamWorks Distribution (North America)",
+      "Paramount Pictures (International; through United International Pictures )"
+    ],
+    "Release date": [
+      "July 24, 1998 ( 1998-07-24 )"
+    ],
+    "Running time": "169 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$70 million",
+    "Box office": "$485 million",
+    "Running time (int)": 169,
+    "Budget (float)": 70000000.0,
+    "Box office (float)": 485000000.0,
+    "Release date (datetime)": "July 24, 1998",
+    "imdb": "8.6",
+    "metascore": "91",
+    "rotten_tomatoes": "94%"
+  },
+  {
+    "title": "Rounders",
+    "Directed by": "John Dahl",
+    "Written by": [
+      "David Levien",
+      "Brian Koppelman"
+    ],
+    "Produced by": [
+      "Joel Stillerman",
+      "Ted Demme"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Edward Norton",
+      "John Turturro",
+      "Famke Janssen",
+      "Gretchen Mol",
+      "John Malkovich",
+      "Martin Landau"
+    ],
+    "Cinematography": "Jean-Yves Escoffier",
+    "Edited by": "Scott Chestnut",
+    "Music by": "Christopher Young",
+    "Production company": "Spanky Pictures",
+    "Distributed by": "Miramax Films",
+    "Release dates": [
+      "September 4, 1998 ( 1998-09-04 ) ( Venice Film Festival )",
+      "September 8, 1998 ( 1998-09-08 ) ( Deauville Film Festival )",
+      "September 11, 1998 ( 1998-09-11 ) (United States)"
+    ],
+    "Running time": "121 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$12 million",
+    "Box office": [
+      "$22.9 million",
+      "(United States)"
+    ],
+    "Running time (int)": 121,
+    "Budget (float)": 12000000.0,
+    "Box office (float)": 22900000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.3",
+    "metascore": "54",
+    "rotten_tomatoes": "64%"
+  },
+  {
+    "title": "Dogma",
+    "Directed by": "Kevin Smith",
+    "Written by": "Kevin Smith",
+    "Produced by": "Scott Mosier",
+    "Starring": [
+      "Ben Affleck",
+      "Matt Damon",
+      "Linda Fiorentino",
+      "Salma Hayek",
+      "Jason Lee",
+      "Bud Cort",
+      "Jason Mewes",
+      "Alan Rickman",
+      "Chris Rock"
+    ],
+    "Cinematography": "Robert Yeoman",
+    "Edited by": [
+      "Kevin Smith",
+      "Scott Mosier"
+    ],
+    "Music by": "Howard Shore",
+    "Production companies": [
+      "View Askew Productions",
+      "STKstudio"
+    ],
+    "Distributed by": [
+      "Lionsgate Films (United States)",
+      "Miramax International (International)"
+    ],
+    "Release dates": [
+      "May 21, 1999 ( 1999-05-21 ) ( Cannes )",
+      "November 12, 1999 ( 1999-11-12 ) (United States)"
+    ],
+    "Running time": "128 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$44 million",
+    "Running time (int)": 128,
+    "Budget (float)": 10000000.0,
+    "Box office (float)": 44000000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.3",
+    "metascore": "62",
+    "rotten_tomatoes": "67%"
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "Directed by": "Anthony Minghella",
+    "Screenplay by": "Anthony Minghella",
+    "Based on": [
+      "The Talented Mr. Ripley",
+      "by",
+      "Patricia Highsmith"
+    ],
+    "Produced by": [
+      "William Horberg",
+      "Tom Sternberg"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Gwyneth Paltrow",
+      "Jude Law",
+      "Cate Blanchett",
+      "Philip Seymour Hoffman",
+      "Jack Davenport",
+      "James Rebhorn",
+      "Sergio Rubini",
+      "Philip Baker Hall"
+    ],
+    "Cinematography": "John Seale",
+    "Edited by": "Walter Murch",
+    "Music by": "Gabriel Yared",
+    "Production companies": [
+      "Mirage Enterprises",
+      "Timnick Films"
+    ],
+    "Distributed by": [
+      "Paramount Pictures (North America)",
+      "Miramax International (International; through Buena Vista International )"
+    ],
+    "Release dates": [
+      "December 12, 1999 ( 1999-12-12 ) ( Fox Bruin Theater )",
+      "December 25, 1999 ( 1999-12-25 ) (United States)"
+    ],
+    "Running time": "139 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$40 million",
+    "Box office": "$128.8 million",
+    "Running time (int)": 139,
+    "Budget (float)": 40000000.0,
+    "Box office (float)": 128800000.00000001,
+    "Release date (datetime)": null,
+    "imdb": "7.4",
+    "metascore": "76",
+    "rotten_tomatoes": "84%"
+  },
+  {
+    "title": "Titan A.E.",
+    "Directed by": [
+      "Don Bluth",
+      "Gary Goldman"
+    ],
+    "Screenplay by": [
+      "Ben Edlund",
+      "John August",
+      "Joss Whedon"
+    ],
+    "Story by": [
+      "Hans Bauer",
+      "Randall McCormick"
+    ],
+    "Produced by": [
+      "Don Bluth",
+      "Gary Goldman",
+      "David Kirschner"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Bill Pullman",
+      "John Leguizamo",
+      "Nathan Lane",
+      "Janeane Garofalo",
+      "Drew Barrymore"
+    ],
+    "Edited by": [
+      "Bob Bender",
+      "Paul Martin Smith",
+      "Fiona Trayler"
+    ],
+    "Music by": "Graeme Revell",
+    "Production companies": [
+      "Fox Animation Studios",
+      "20th Century Fox Animation",
+      "David Kirschner Productions"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "June 16, 2000 ( 2000-06-16 )"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$75–90 million",
+    "Box office": "$36.8 million",
+    "Running time (int)": 94,
+    "Budget (float)": 75000000.0,
+    "Box office (float)": 36800000.0,
+    "Release date (datetime)": "June 16, 2000",
+    "imdb": "6.6",
+    "metascore": "48",
+    "rotten_tomatoes": "50%"
+  },
+  {
+    "title": "The Legend of Bagger Vance",
+    "Directed by": "Robert Redford",
+    "Screenplay by": "Jeremy Leven",
+    "Based on": [
+      "The Legend of Bagger Vance",
+      "1995 novel",
+      "by",
+      "Steven Pressfield"
+    ],
+    "Produced by": [
+      "Michael Nozik",
+      "Jake Eberts",
+      "Robert Redford"
+    ],
+    "Starring": [
+      "Will Smith",
+      "Matt Damon",
+      "Charlize Theron"
+    ],
+    "Cinematography": "Michael Ballhaus",
+    "Edited by": "Hank Corwin",
+    "Music by": "Rachel Portman",
+    "Production companies": [
+      "DreamWorks Pictures",
+      "20th Century Fox",
+      "Allied Filmmakers"
+    ],
+    "Distributed by": [
+      "DreamWorks Distribution (North America)",
+      "20th Century Fox (International)"
+    ],
+    "Release date": [
+      "November 3, 2000 ( 2000-11-03 )"
+    ],
+    "Running time": "126 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$80 million",
+    "Box office": "$39.5 million",
+    "Running time (int)": 126,
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 39500000.0,
+    "Release date (datetime)": "November 03, 2000",
+    "imdb": "6.7",
+    "metascore": "47",
+    "rotten_tomatoes": "43%"
+  },
+  {
+    "title": "Finding Forrester",
+    "Directed by": "Gus Van Sant",
+    "Written by": "Mike Rich",
+    "Produced by": [
+      "Sean Connery",
+      "Laurence Mark"
+    ],
+    "Starring": [
+      "Rob Brown",
+      "Sean Connery",
+      "F. Murray Abraham",
+      "Anna Paquin",
+      "Busta Rhymes"
+    ],
+    "Cinematography": "Harris Savides",
+    "Edited by": "Valdís Óskarsdóttir",
+    "Music by": "Terrence Blanchard",
+    "Production company": "Columbia Pictures",
+    "Distributed by": "Sony Pictures Releasing",
+    "Release date": [
+      "December 22, 2000 ( 2000-12-22 )"
+    ],
+    "Running time": "136 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$43 million",
+    "Box office": "$80 million",
+    "Running time (int)": 136,
+    "Budget (float)": 43000000.0,
+    "Box office (float)": 80000000.0,
+    "Release date (datetime)": "December 22, 2000",
+    "imdb": "7.3",
+    "metascore": "62",
+    "rotten_tomatoes": "74%"
+  },
+  {
+    "title": "All the Pretty Horses",
+    "Directed by": "Billy Bob Thornton",
+    "Screenplay by": "Ted Tally",
+    "Based on": [
+      "All the Pretty Horses",
+      "by",
+      "Cormac McCarthy"
+    ],
+    "Produced by": [
+      "Robert Salerno",
+      "Billy Bob Thornton"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Henry Thomas",
+      "Lucas Black",
+      "Penélope Cruz",
+      "Rubén Blades",
+      "Robert Patrick",
+      "Bruce Dern",
+      "Sam Shepard"
+    ],
+    "Cinematography": "Barry Markowitz",
+    "Edited by": "Sally Menke",
+    "Music by": [
+      "Marty Stuart",
+      "Kristin Wilkinson",
+      "Larry Paxton"
+    ],
+    "Production companies": [
+      "Columbia Pictures",
+      "Miramax Films"
+    ],
+    "Distributed by": [
+      "Miramax Films",
+      "(United States)",
+      "Columbia Pictures",
+      "(International; through",
+      "Columbia TriStar Film Distributors International",
+      ")"
+    ],
+    "Release date": [
+      "December 25, 2000 ( 2000-12-25 )"
+    ],
+    "Running time": "117 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "Spanish"
+    ],
+    "Budget": "$57 million",
+    "Box office": "$18.1 million",
+    "Running time (int)": 117,
+    "Budget (float)": 57000000.0,
+    "Box office (float)": 18100000.0,
+    "Release date (datetime)": "December 25, 2000",
+    "imdb": "5.8",
+    "metascore": "55",
+    "rotten_tomatoes": "32%"
+  },
+  {
+    "title": "Jay and Silent Bob Strike Back",
+    "Directed by": "Kevin Smith",
+    "Written by": "Kevin Smith",
+    "Produced by": "Scott Mosier",
+    "Starring": [
+      "Jason Mewes",
+      "Kevin Smith",
+      "Ben Affleck",
+      "Eliza Dushku",
+      "Shannon Elizabeth",
+      "Will Ferrell",
+      "Ali Larter",
+      "Jason Lee",
+      "Chris Rock"
+    ],
+    "Cinematography": "Jamie Anderson",
+    "Edited by": [
+      "Scott Mosier",
+      "Kevin Smith"
+    ],
+    "Music by": "James L. Venable",
+    "Production companies": [
+      "Dimension Films",
+      "Miramax Films",
+      "View Askew Productions"
+    ],
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "August 24, 2001 ( 2001-08-24 )"
+    ],
+    "Running time": "104 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$22 million",
+    "Box office": "$33.8 million",
+    "Running time (int)": 104,
+    "Budget (float)": 22000000.0,
+    "Box office (float)": 33800000.0,
+    "Release date (datetime)": "August 24, 2001",
+    "imdb": "6.8",
+    "metascore": "51",
+    "rotten_tomatoes": "52%"
+  },
+  {
+    "title": "Ocean's Eleven",
+    "Directed by": "Steven Soderbergh",
+    "Screenplay by": "Ted Griffin",
+    "Based on": [
+      "Harry Brown",
+      "Charles Lederer",
+      "George Clayton Johnson",
+      "Jack Golden Russell"
+    ],
+    "Produced by": "Jerry Weintraub",
+    "Starring": [
+      "George Clooney",
+      "Matt Damon",
+      "Andy García",
+      "Brad Pitt",
+      "Julia Roberts",
+      "Casey Affleck",
+      "Scott Caan",
+      "Elliott Gould",
+      "Bernie Mac",
+      "Carl Reiner"
+    ],
+    "Cinematography": "Peter Andrews",
+    "Edited by": "Stephen Mirrione",
+    "Music by": "David Holmes",
+    "Production companies": [
+      "Village Roadshow Pictures",
+      "NPV Entertainment",
+      "Jerry Weintraub Productions",
+      "Section Eight Productions"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "December 7, 2001 ( 2001-12-07 )"
+    ],
+    "Running time": "116 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$85 million",
+    "Box office": "$450.7 million",
+    "Running time (int)": 116,
+    "Budget (float)": 85000000.0,
+    "Box office (float)": 450700000.0,
+    "Release date (datetime)": "December 07, 2001",
+    "imdb": "7.7",
+    "metascore": "74",
+    "rotten_tomatoes": "83%"
+  },
+  {
+    "title": "The Majestic",
+    "Directed by": "Frank Darabont",
+    "Written by": "Michael Sloane",
+    "Produced by": "Frank Darabont",
+    "Starring": [
+      "Jim Carrey",
+      "Bob Balaban",
+      "Brent Briscoe",
+      "Jeffrey DeMunn",
+      "Amanda Detmer",
+      "Allen Garfield",
+      "Hal Holbrook",
+      "Laurie Holden",
+      "Martin Landau",
+      "Ron Rifkin",
+      "David Ogden Stiers",
+      "James Whitmore"
+    ],
+    "Cinematography": "David Tattersall",
+    "Edited by": "Jim Page",
+    "Music by": "Mark Isham",
+    "Production companies": [
+      "Castle Rock Entertainment",
+      "Village Roadshow Pictures",
+      "NPV Entertainment",
+      "Darkwoods Productions"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "December 21, 2001 ( 2001-12-21 ) (United States)"
+    ],
+    "Running time": "153 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$72 million",
+    "Box office": "$37.3 million",
+    "Running time (int)": 153,
+    "Budget (float)": 72000000.0,
+    "Box office (float)": 37300000.0,
+    "Release date (datetime)": "December 21, 2001",
+    "imdb": "6.9",
+    "metascore": "27",
+    "rotten_tomatoes": "42%"
+  },
+  {
+    "title": "Gerry",
+    "Directed by": "Gus Van Sant",
+    "Written by": [
+      "Casey Affleck",
+      "Matt Damon",
+      "Gus Van Sant"
+    ],
+    "Produced by": "Dany Wolf",
+    "Starring": [
+      "Matt Damon",
+      "Casey Affleck"
+    ],
+    "Cinematography": "Harris Savides",
+    "Edited by": [
+      "Casey Affleck",
+      "Matt Damon",
+      "Gus Van Sant"
+    ],
+    "Music by": "Arvo Pärt",
+    "Distributed by": "THINKFilm",
+    "Release dates": [
+      "January 12, 2002 ( 2002-01-12 ) (Sundance)",
+      "February 14, 2003 ( 2003-02-14 ) (United States)"
+    ],
+    "Running time": "103 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3.5 million",
+    "Box office": "$254,683",
+    "Running time (int)": 103,
+    "Budget (float)": 3500000.0,
+    "Box office (float)": 254683.0,
+    "Release date (datetime)": null,
+    "imdb": "6.0",
+    "metascore": "54",
+    "rotten_tomatoes": "61%"
+  },
+  {
+    "title": "Stolen Summer",
+    "Directed by": "Pete Jones",
+    "Written by": "Pete Jones",
+    "Produced by": [
+      "Chris Moore",
+      "Ben Affleck",
+      "Matt Damon"
+    ],
+    "Starring": [
+      "Aidan Quinn",
+      "Bonnie Hunt",
+      "Kevin Pollak",
+      "Brian Dennehy"
+    ],
+    "Cinematography": "Peter Biagi",
+    "Edited by": "Gregg Featherman",
+    "Music by": "Danny Lux",
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "March 22, 2002 ( 2002-03-22 )"
+    ],
+    "Running time": "91 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.8 million",
+    "Box office": "$134,736",
+    "Running time (int)": 91,
+    "Budget (float)": 1800000.0,
+    "Box office (float)": 134736.0,
+    "Release date (datetime)": "March 22, 2002",
+    "imdb": "6.5",
+    "metascore": "36",
+    "rotten_tomatoes": "36%"
+  },
+  {
+    "title": "Spirit: Stallion of the Cimarron",
+    "Directed by": [
+      "Kelly Asbury",
+      "Lorna Cook"
+    ],
+    "Screenplay by": "John Fusco",
+    "Story by": "Jeffrey Katzenberg (uncredited)",
+    "Produced by": [
+      "Mireille Soria",
+      "Jeffrey Katzenberg"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "James Cromwell",
+      "Daniel Studi"
+    ],
+    "Edited by": [
+      "Nick Fletcher",
+      "Clare De Chenu"
+    ],
+    "Music by": "Hans Zimmer",
+    "Production company": "DreamWorks Animation",
+    "Distributed by": [
+      "DreamWorks Pictures",
+      "DreamWorks Distribution"
+    ],
+    "Release dates": [
+      "May 21, 2002 ( 2002-05-21 ) ( Cannes )",
+      "May 24, 2002 ( 2002-05-24 )"
+    ],
+    "Running time": "83 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$80 million",
+    "Box office": "$122.6 million",
+    "Running time (int)": 83,
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 122600000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.1",
+    "metascore": "52",
+    "rotten_tomatoes": "69%"
+  },
+  {
+    "title": "The Third Wheel",
+    "Directed by": "Jordan Brady",
+    "Written by": "Jay Lacopo",
+    "Produced by": [
+      "Stavros Merjos",
+      "Chris Moore",
+      "Adam Rosenfelt",
+      "Chad Snopek"
+    ],
+    "Starring": [
+      "Luke Wilson",
+      "Denise Richards",
+      "Jay Lacopo",
+      "Ben Affleck",
+      "Phil Lewis",
+      "Deborah Theaker"
+    ],
+    "Cinematography": "Jonathan Brown",
+    "Edited by": [
+      "Sam Citron",
+      "Paul Seydor"
+    ],
+    "Music by": [
+      "Lisa Coleman",
+      "Wendy Melvoin"
+    ],
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "2002 ( 2002 )"
+    ],
+    "Running time": "83 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Running time (int)": 83,
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Release date (datetime)": null,
+    "imdb": "5.4",
+    "metascore": "N/A",
+    "rotten_tomatoes": "33%"
+  },
+  {
+    "title": "The Bourne Identity",
+    "Directed by": "Doug Liman",
+    "Screenplay by": [
+      "Tony Gilroy",
+      "William Blake Herron"
+    ],
+    "Based on": [
+      "The Bourne Identity",
+      "by",
+      "Robert Ludlum"
+    ],
+    "Produced by": [
+      "Doug Liman",
+      "Patrick Crowley",
+      "Richard N. Gladstein"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Franka Potente",
+      "Chris Cooper",
+      "Clive Owen",
+      "Brian Cox",
+      "Adewale Akinnuoye-Agbaje"
+    ],
+    "Cinematography": "Oliver Wood",
+    "Edited by": "Saar Klein",
+    "Music by": "John Powell",
+    "Production companies": [
+      "Universal Pictures",
+      "Kennedy/Marshall",
+      "Hypnotic Productions"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release dates": [
+      "June 6, 2002 ( 2002-06-06 ) ( Los Angeles )",
+      "June 14, 2002 ( 2002-06-14 ) (United States)"
+    ],
+    "Running time": "119 minutes",
+    "Countries": [
+      "United States",
+      "Germany",
+      "Czech Republic"
+    ],
+    "Language": "English",
+    "Budget": "$60 million",
+    "Box office": "$214 million",
+    "Running time (int)": 119,
+    "Budget (float)": 60000000.0,
+    "Box office (float)": 214000000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.9",
+    "metascore": "68",
+    "rotten_tomatoes": "84%"
+  },
+  {
+    "title": "Confessions of a Dangerous Mind",
+    "Directed by": "George Clooney",
+    "Screenplay by": "Charlie Kaufman",
+    "Based on": [
+      "Confessions of a Dangerous Mind",
+      "by",
+      "Chuck Barris"
+    ],
+    "Produced by": "Andrew Lazar",
+    "Starring": [
+      "Sam Rockwell",
+      "George Clooney",
+      "Julia Roberts",
+      "Drew Barrymore",
+      "Rutger Hauer"
+    ],
+    "Cinematography": "Newton Thomas Sigel",
+    "Edited by": "Stephen Mirrione",
+    "Music by": "Alex Wurman",
+    "Production companies": [
+      "Mad Chance",
+      "Section Eight",
+      "Mel's Cite du Cinema",
+      "JVS & Co."
+    ],
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "December 31, 2002 ( 2002-12-31 ) (United States)"
+    ],
+    "Running time": "113 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$30 million",
+    "Box office": "$33.1 million",
+    "Running time (int)": 113,
+    "Budget (float)": 30000000.0,
+    "Box office (float)": 33100000.0,
+    "Release date (datetime)": "December 31, 2002",
+    "imdb": "7.0",
+    "metascore": "67",
+    "rotten_tomatoes": "79%"
+  },
+  {
+    "title": "The Battle of Shaker Heights",
+    "Directed by": [
+      "Efram Potelle",
+      "Kyle Rankin"
+    ],
+    "Written by": "Erica Beeney",
+    "Produced by": [
+      "Chris Moore",
+      "Jeff Balis"
+    ],
+    "Starring": [
+      "Shia LaBeouf",
+      "Elden Henson",
+      "Amy Smart",
+      "Shiri Appleby",
+      "Kathleen Quinlan",
+      "William Sadler"
+    ],
+    "Cinematography": "Thomas E. Ackerman",
+    "Edited by": "Richard Nord",
+    "Music by": "Richard Marvin",
+    "Production company": "LivePlanet",
+    "Distributed by": "Miramax Films",
+    "Release date": [
+      "August 22, 2003 ( 2003-08-22 )"
+    ],
+    "Running time": "77 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "German"
+    ],
+    "Budget": "$1 million",
+    "Box office": "$280,351",
+    "Running time (int)": 77,
+    "Budget (float)": 1000000.0,
+    "Box office (float)": 280351.0,
+    "Release date (datetime)": "August 22, 2003",
+    "imdb": "6.0",
+    "metascore": "33",
+    "rotten_tomatoes": "39%"
+  },
+  {
+    "title": "Stuck on You",
+    "Directed by": [
+      "Peter Farrelly",
+      "Bobby Farrelly"
+    ],
+    "Screenplay by": [
+      "Peter Farrelly",
+      "Bobby Farrelly"
+    ],
+    "Story by": [
+      "Bennett Yellin",
+      "Charles B. Wessler",
+      "Peter Farrelly",
+      "Bobby Farrelly"
+    ],
+    "Produced by": [
+      "Peter Farrelly",
+      "Bobby Farrelly",
+      "Bradley Thomas",
+      "Charles B. Wessler"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Greg Kinnear",
+      "Eva Mendes",
+      "Seymour Cassel",
+      "Cher"
+    ],
+    "Cinematography": "Dan Mindel",
+    "Edited by": [
+      "Christopher Greenbury",
+      "Dave Terman"
+    ],
+    "Music by": "Charlie Gartner",
+    "Production company": "Conundrum Entertainment",
+    "Distributed by": "20th Century Fox",
+    "Release date": [
+      "December 12, 2003 ( 2003-12-12 )"
+    ],
+    "Running time": "118 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$55 million",
+    "Box office": "$65.8 million",
+    "Running time (int)": 118,
+    "Budget (float)": 55000000.0,
+    "Box office (float)": 65800000.0,
+    "Release date (datetime)": "December 12, 2003",
+    "imdb": "5.8",
+    "metascore": "62",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "EuroTrip",
+    "Directed by": "Jeff Schaffer",
+    "Written by": [
+      "Jeff Schaffer",
+      "Alec Berg",
+      "David Mandel"
+    ],
+    "Produced by": [
+      "Alec Berg",
+      "David Mandel",
+      "Daniel Goldberg",
+      "Jackie Marcus"
+    ],
+    "Starring": [
+      "Scott Mechlowicz",
+      "Jacob Pitts",
+      "Michelle Trachtenberg",
+      "Travis Wester"
+    ],
+    "Cinematography": "David Eggby",
+    "Edited by": "Roger Bondelli",
+    "Music by": "James L. Venable",
+    "Production company": "The Montecito Picture Company",
+    "Distributed by": "DreamWorks Pictures",
+    "Release date": [
+      "February 20, 2004 ( 2004-02-20 )"
+    ],
+    "Running time": "92 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$25 million",
+    "Box office": "$20.8 million",
+    "Running time (int)": 92,
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 20800000.0,
+    "Release date (datetime)": "February 20, 2004",
+    "imdb": "6.6",
+    "metascore": "45",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Jersey Girl",
+    "Directed by": "Kevin Smith",
+    "Written by": "Kevin Smith",
+    "Produced by": "Scott Mosier",
+    "Starring": [
+      "Ben Affleck",
+      "Liv Tyler",
+      "George Carlin",
+      "Stephen Root",
+      "Mike Starr",
+      "Raquel Castro",
+      "Jason Biggs",
+      "Jennifer Lopez"
+    ],
+    "Cinematography": "Vilmos Zsigmond",
+    "Edited by": [
+      "Scott Mosier",
+      "Kevin Smith"
+    ],
+    "Music by": "James L. Venable",
+    "Production company": "View Askew Productions",
+    "Distributed by": "Miramax Films",
+    "Release dates": [
+      "March 9, 2004 ( 2004-03-09 ) ( New York City )",
+      "March 26, 2004 ( 2004-03-26 ) (United States)"
+    ],
+    "Running time": "102 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$35 million",
+    "Box office": "$35.5 million",
+    "Running time (int)": 102,
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 35500000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.2",
+    "metascore": "43",
+    "rotten_tomatoes": "43%"
+  },
+  {
+    "title": "The Bourne Supremacy",
+    "Directed by": "Paul Greengrass",
+    "Screenplay by": "Tony Gilroy",
+    "Based on": [
+      "The Bourne Supremacy",
+      "by",
+      "Robert Ludlum"
+    ],
+    "Produced by": [
+      "Frank Marshall",
+      "Patrick Crowley",
+      "Paul L. Sandberg"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Franka Potente",
+      "Brian Cox",
+      "Julia Stiles",
+      "Karl Urban",
+      "Gabriel Mann",
+      "Joan Allen"
+    ],
+    "Cinematography": "Oliver Wood",
+    "Edited by": [
+      "Christopher Rouse",
+      "Richard Pearson"
+    ],
+    "Music by": "John Powell",
+    "Production companies": [
+      "Universal Pictures",
+      "Kennedy/Marshall",
+      "Ludlum Entertainment"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "July 23, 2004 ( 2004-07-23 )"
+    ],
+    "Running time": "108 minutes",
+    "Countries": [
+      "United States",
+      "Germany"
+    ],
+    "Language": "English",
+    "Budget": "$75 million",
+    "Box office": "$290.6 million",
+    "Running time (int)": 108,
+    "Budget (float)": 75000000.0,
+    "Box office (float)": 290600000.0,
+    "Release date (datetime)": "July 23, 2004",
+    "imdb": "7.7",
+    "metascore": "73",
+    "rotten_tomatoes": "82%"
+  },
+  {
+    "title": "Ocean's Twelve",
+    "Directed by": "Steven Soderbergh",
+    "Written by": "George Nolfi",
+    "Based on": [
+      "George Clayton Johnson",
+      "Jack Golden Russell"
+    ],
+    "Produced by": "Jerry Weintraub",
+    "Starring": [
+      "George Clooney",
+      "Brad Pitt",
+      "Matt Damon",
+      "Catherine Zeta-Jones",
+      "Andy García",
+      "Don Cheadle",
+      "Bernie Mac",
+      "Julia Roberts",
+      "Casey Affleck",
+      "Scott Caan",
+      "Vincent Cassel",
+      "Eddie Jemison",
+      "Carl Reiner",
+      "Elliott Gould"
+    ],
+    "Cinematography": "Peter Andrews",
+    "Edited by": "Stephen Mirrione",
+    "Music by": "David Holmes",
+    "Production companies": [
+      "Village Roadshow Pictures",
+      "Jerry Weintraub Productions",
+      "Section Eight Productions"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "December 10, 2004 ( 2004-12-10 )"
+    ],
+    "Running time": "125 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$110 million",
+    "Box office": "$362.9 million",
+    "Running time (int)": 125,
+    "Budget (float)": 110000000.0,
+    "Box office (float)": 362900000.0,
+    "Release date (datetime)": "December 10, 2004",
+    "imdb": "6.5",
+    "metascore": "58",
+    "rotten_tomatoes": "55%"
+  },
+  {
+    "title": "Howard Zinn: You Can't Be Neutral on a Moving Train",
+    "Starring": [
+      "Daniel Berrigan",
+      "Howard Zinn",
+      "Alice Walker"
+    ],
+    "Narrated by": "Matt Damon",
+    "Music by": "Richard Martinez",
+    "Distributed by": "First Run Features",
+    "Release date": [
+      "2004 ( 2004 )"
+    ],
+    "Running time": "78 minutes",
+    "Language": "English",
+    "Running time (int)": 78,
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Release date (datetime)": null,
+    "imdb": "7.4",
+    "metascore": "65",
+    "rotten_tomatoes": "97%"
+  },
+  {
+    "title": "Magnificent Desolation: Walking on the Moon 3D",
+    "Directed by": "Mark Cowen",
+    "Written by": [
+      "Mark Cowen",
+      "Tom Hanks",
+      "Christopher G. Cowen"
+    ],
+    "Produced by": [
+      "Mark Cowen",
+      "Tom Hanks",
+      "Gary Goetzman",
+      "Mark Herzog"
+    ],
+    "Starring": [
+      "Tom Hanks",
+      "Paul Newman",
+      "Morgan Freeman",
+      "Scott Glenn",
+      "Matt Damon",
+      "Gary Sinise",
+      "Bryan Cranston",
+      "Matthew McConaughey",
+      "John Travolta"
+    ],
+    "Cinematography": "Sean MacLeod Phillips",
+    "Edited by": "Billy Shinski",
+    "Music by": "Blake Neely",
+    "Production company": "Playtone",
+    "Distributed by": "IMAX",
+    "Release date": "September 23, 2005 ( 2005-09-23 )",
+    "Running time": "40 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3 million",
+    "Box office": "$40,339,402",
+    "Running time (int)": 40,
+    "Budget (float)": 3000000.0,
+    "Box office (float)": 40339402.0,
+    "Release date (datetime)": "September 23, 2005",
+    "imdb": null,
+    "metascore": null,
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The Brothers Grimm",
+    "Directed by": "Terry Gilliam",
+    "Written by": "Ehren Kruger",
+    "Produced by": [
+      "Charles Roven",
+      "Daniel Bobker"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Heath Ledger",
+      "Peter Stormare",
+      "Lena Headey",
+      "Jonathan Pryce",
+      "Monica Bellucci"
+    ],
+    "Cinematography": "Newton Thomas Sigel",
+    "Edited by": "Lesley Walker",
+    "Music by": "Dario Marianelli",
+    "Production companies": [
+      "Mosaic Media Group",
+      "Daniel Bobker Productions",
+      "Metro-Goldwyn-Mayer",
+      "Atlas Entertainment"
+    ],
+    "Distributed by": [
+      "Dimension Films",
+      "(United States; through",
+      "Miramax Films",
+      ")",
+      "Bontonfilm",
+      "(Czech Republic)",
+      "Miramax International (International; through",
+      "Buena Vista International",
+      ")"
+    ],
+    "Release dates": [
+      "26 August 2005 ( 2005-08-26 ) (United States)",
+      "4 November 2005 ( 2005-11-04 ) (United Kingdom)",
+      "11 November 2005 ( 2005-11-11 ) (Czech Republic)"
+    ],
+    "Running time": "118 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom",
+      "Czech Republic"
+    ],
+    "Languages": [
+      "English",
+      "French",
+      "German",
+      "Italian"
+    ],
+    "Budget": "$80–88 million",
+    "Box office": "$105.3 million",
+    "Running time (int)": 118,
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 105300000.0,
+    "Release date (datetime)": null,
+    "imdb": "5.9",
+    "metascore": "51",
+    "rotten_tomatoes": "38%"
+  },
+  {
+    "title": "Syriana",
+    "Directed by": "Stephen Gaghan",
+    "Screenplay by": "Stephen Gaghan",
+    "Based on": [
+      "See No Evil",
+      "by",
+      "Robert Baer"
+    ],
+    "Produced by": [
+      "Jennifer Fox",
+      "Michael Nozik",
+      "Georgia Kacandes"
+    ],
+    "Starring": [
+      "George Clooney",
+      "Matt Damon",
+      "Jeffrey Wright",
+      "Chris Cooper",
+      "William Hurt",
+      "Tim Blake Nelson",
+      "Amanda Peet",
+      "Christopher Plummer",
+      "Alexander Siddig",
+      "Mazhar Munir"
+    ],
+    "Cinematography": "Robert Elswit",
+    "Edited by": "Tim Squyres",
+    "Music by": "Alexandre Desplat",
+    "Production companies": [
+      "Participant Productions",
+      "Section Eight Productions"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release dates": [
+      "November 20, 2005 ( 2005-11-20 ) (New York City premiere)",
+      "November 23, 2005 ( 2005-11-23 ) (United States)"
+    ],
+    "Running time": "128 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "Arabic",
+      "Urdu",
+      "Persian",
+      "Chinese",
+      "French"
+    ],
+    "Budget": "$50 million",
+    "Box office": "$94 million",
+    "Running time (int)": 128,
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 94000000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.9",
+    "metascore": "76",
+    "rotten_tomatoes": "73%"
+  },
+  {
+    "title": "Feast",
+    "Directed by": "John Gulager",
+    "Written by": [
+      "Patrick Melton",
+      "Marcus Dunstan"
+    ],
+    "Produced by": [
+      "Michael Leahy",
+      "Joel Soisson",
+      "Larry Tanz",
+      "Andrew Jameson"
+    ],
+    "Starring": [
+      "Balthazar Getty",
+      "Krista Allen",
+      "Navi Rawat",
+      "Josh Zuckerman",
+      "Jenny Wade",
+      "Henry Rollins",
+      "Duane Whitaker",
+      "Clu Gulager",
+      "Judah Friedlander",
+      "Eileen Ryan",
+      "Eric Dane"
+    ],
+    "Cinematography": "Thomas L. Callaway",
+    "Edited by": "Kirk M. Morri",
+    "Music by": "Stephen Edwards",
+    "Production companies": [
+      "LivePlanet",
+      "Maloof Motion Pictures",
+      "Neo Art & Logic"
+    ],
+    "Distributed by": "Dimension Films",
+    "Release dates": [
+      "October 14, 2005 ( 2005-10-14 ) ( CIFF )",
+      "September 22, 2006 ( 2006-09-22 ) ( Limited )"
+    ],
+    "Running time": "87 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3.2 million",
+    "Box office": "$658,573",
+    "Running time (int)": 87,
+    "Budget (float)": 3200000.0,
+    "Box office (float)": 658573.0,
+    "Release date (datetime)": null,
+    "imdb": "6.2",
+    "metascore": "43",
+    "rotten_tomatoes": "55%"
+  },
+  {
+    "title": "The Departed",
+    "Directed by": "Martin Scorsese",
+    "Screenplay by": "William Monahan",
+    "Based on": [
+      "Infernal Affairs",
+      "by",
+      "Alan Mak",
+      "&",
+      "Felix Chong"
+    ],
+    "Produced by": [
+      "Brad Pitt",
+      "Brad Grey",
+      "Gianni Nunnari",
+      "Graham King"
+    ],
+    "Starring": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson",
+      "Mark Wahlberg",
+      "Martin Sheen",
+      "Ray Winstone",
+      "Vera Farmiga",
+      "Alec Baldwin"
+    ],
+    "Cinematography": "Michael Ballhaus",
+    "Edited by": "Thelma Schoonmaker",
+    "Music by": "Howard Shore",
+    "Production companies": [
+      "Plan B Entertainment",
+      "Initial Entertainment Group",
+      "Vertigo Entertainment",
+      "Media Asia Films"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release dates": [
+      "September 26, 2006 ( 2006-09-26 ) ( Ziegfeld Theatre )",
+      "October 6, 2006 ( 2006-10-06 ) (United States)"
+    ],
+    "Running time": "151 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$90 million",
+    "Box office": "$291.5 million",
+    "Running time (int)": 151,
+    "Budget (float)": 90000000.0,
+    "Box office (float)": 291500000.0,
+    "Release date (datetime)": null,
+    "imdb": "8.5",
+    "metascore": "85",
+    "rotten_tomatoes": "90%"
+  },
+  {
+    "title": "The Good Shepherd",
+    "Directed by": "Robert De Niro",
+    "Written by": "Eric Roth",
+    "Produced by": [
+      "James G. Robinson",
+      "Jane Rosenthal",
+      "Robert De Niro"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Angelina Jolie",
+      "Alec Baldwin",
+      "Michael Gambon",
+      "Tammy Blanchard",
+      "Billy Crudup",
+      "Keir Dullea",
+      "Martina Gedeck",
+      "William Hurt",
+      "Timothy Hutton",
+      "Lee Pace",
+      "Eddie Redmayne",
+      "John Sessions",
+      "Oleg Stefan",
+      "Joe Pesci",
+      "John Turturro",
+      "Robert De Niro"
+    ],
+    "Cinematography": "Robert Richardson",
+    "Edited by": "Tariq Anwar",
+    "Music by": [
+      "Bruce Fowler",
+      "Marcelo Zarvos"
+    ],
+    "Production companies": [
+      "Morgan Creek Productions",
+      "TriBeCa Productions",
+      "American Zoetrope"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "December 22, 2006 ( 2006-12-22 )"
+    ],
+    "Running time": "167 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$80 million",
+    "Box office": "$100.3 million",
+    "Running time (int)": 167,
+    "Budget (float)": 80000000.0,
+    "Box office (float)": 100300000.0,
+    "Release date (datetime)": "December 22, 2006",
+    "imdb": "6.7",
+    "metascore": "61",
+    "rotten_tomatoes": "56%"
+  },
+  {
+    "title": "Ocean's Thirteen",
+    "Directed by": "Steven Soderbergh",
+    "Written by": [
+      "Brian Koppelman",
+      "David Levien"
+    ],
+    "Based on": [
+      "George Clayton Johnson",
+      "Jack Golden Russell"
+    ],
+    "Produced by": "Jerry Weintraub",
+    "Starring": [
+      "George Clooney",
+      "Brad Pitt",
+      "Matt Damon",
+      "Andy García",
+      "Don Cheadle",
+      "Bernie Mac",
+      "Ellen Barkin",
+      "Al Pacino",
+      "Casey Affleck",
+      "Scott Caan",
+      "Eddie Jemison",
+      "Qin Shaobo",
+      "Carl Reiner",
+      "Elliott Gould"
+    ],
+    "Cinematography": "Peter Andrews",
+    "Edited by": "Stephen Mirrione",
+    "Music by": "David Holmes",
+    "Production companies": [
+      "Village Roadshow Pictures",
+      "Jerry Weintraub Productions",
+      "Section Eight Productions"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release dates": [
+      "May 24, 2007 ( 2007-05-24 ) ( Cannes )",
+      "June 8, 2007 ( 2007-06-08 ) (United States)"
+    ],
+    "Running time": "122 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$85 million",
+    "Box office": "$311.7 million",
+    "Running time (int)": 122,
+    "Budget (float)": 85000000.0,
+    "Box office (float)": 311700000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.9",
+    "metascore": "62",
+    "rotten_tomatoes": "70%"
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "Directed by": "Paul Greengrass",
+    "Screenplay by": [
+      "Tony Gilroy",
+      "Scott Z. Burns",
+      "George Nolfi"
+    ],
+    "Story by": "Tony Gilroy",
+    "Based on": [
+      "The Bourne Ultimatum",
+      "by",
+      "Robert Ludlum"
+    ],
+    "Produced by": [
+      "Frank Marshall",
+      "Patrick Crowley",
+      "Paul L. Sandberg"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Julia Stiles",
+      "David Strathairn",
+      "Scott Glenn",
+      "Paddy Considine",
+      "Édgar Ramírez",
+      "Albert Finney",
+      "Joan Allen"
+    ],
+    "Cinematography": "Oliver Wood",
+    "Edited by": "Christopher Rouse",
+    "Music by": "John Powell",
+    "Production companies": [
+      "Universal Pictures",
+      "Kennedy/Marshall",
+      "Ludlum Entertainment"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release dates": [
+      "July 25, 2007 ( 2007-07-25 ) ( ArcLight Hollywood )",
+      "August 3, 2007 ( 2007-08-03 ) (United States)"
+    ],
+    "Running time": "115 minutes",
+    "Countries": [
+      "Germany",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$110 million",
+    "Box office": "$444.1 million",
+    "Running time (int)": 115,
+    "Budget (float)": 110000000.0,
+    "Box office (float)": 444100000.0,
+    "Release date (datetime)": null,
+    "imdb": "8.0",
+    "metascore": "85",
+    "rotten_tomatoes": "92%"
+  },
+  {
+    "title": "Youth Without Youth",
+    "Directed by": "Francis Ford Coppola",
+    "Screenplay by": "Francis Ford Coppola",
+    "Based on": [
+      "Youth Without Youth",
+      "by",
+      "Mircea Eliade"
+    ],
+    "Produced by": "Francis Ford Coppola",
+    "Starring": [
+      "Tim Roth",
+      "Bruno Ganz",
+      "Alexandra Maria Lara",
+      "André Hennicke",
+      "Marcel Iureș",
+      "Adrian Pintea"
+    ],
+    "Cinematography": "Mihai Mălaimare Jr.",
+    "Edited by": "Walter Murch",
+    "Music by": "Osvaldo Golijov",
+    "Production company": "American Zoetrope",
+    "Distributed by": [
+      "Sony Pictures Classics",
+      "(US/Germany)",
+      "Pathé Distribution",
+      "(France and United Kingdom)",
+      "BIM Distribuzione",
+      "(Italy)"
+    ],
+    "Release dates": [
+      "October 20, 2007 ( 2007-10-20 ) (Rome Film Festival)",
+      "October 26, 2007 ( 2007-10-26 ) (Italy)",
+      "November 14, 2007 ( 2007-11-14 ) (France)",
+      "December 14, 2007 ( 2007-12-14 ) (US)",
+      "July 10, 2008 ( 2008-07-10 ) (Germany)"
+    ],
+    "Running time": "124 minutes",
+    "Countries": [
+      "United States",
+      "Romania",
+      "France",
+      "Italy",
+      "Germany"
+    ],
+    "Languages": [
+      "English",
+      "Sanskrit",
+      "German",
+      "French",
+      "Italian",
+      "Russian",
+      "Romanian",
+      "Mandarin",
+      "Latin",
+      "Armenian",
+      "Egyptian"
+    ],
+    "Box office": "$2.6 million",
+    "Running time (int)": 124,
+    "Budget (float)": null,
+    "Box office (float)": 2600000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.1",
+    "metascore": "43",
+    "rotten_tomatoes": "33%"
+  },
+  {
+    "title": "Running the Sahara",
+    "Produced by": [
+      "Rick Eldridge",
+      "Marc Joubert",
+      "James Moll",
+      "Keith Quinn",
+      "Larry Tanz",
+      "Michael Rosen"
+    ],
+    "Narrated by": "Matt Damon",
+    "Cinematography": "Harris Done",
+    "Edited by": "Ricky Kreitman",
+    "Release date": "2007",
+    "Running time": "102 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Running time (int)": 102,
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Release date (datetime)": null,
+    "imdb": "7.1",
+    "metascore": "N/A",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Che",
+    "Directed by": "Steven Soderbergh",
+    "Written by": [
+      "Peter Buchman",
+      "Benjamin A. van der Veen",
+      "Terrence Malick"
+    ],
+    "Produced by": [
+      "Laura Bickford",
+      "Benicio del Toro"
+    ],
+    "Starring": "Benicio del Toro",
+    "Cinematography": "Peter Andrews",
+    "Edited by": "Pablo Zumárraga",
+    "Music by": "Alberto Iglesias",
+    "Production companies": [
+      "Telecinco Cinema",
+      "Wild Bunch",
+      "Section Eight Productions"
+    ],
+    "Distributed by": [
+      "Morena Films",
+      "20th Century Fox",
+      "(Spain)",
+      "Wild Bunch",
+      "(Germany, Austria and Netherlands)",
+      "Warner Bros. Pictures",
+      "(France)",
+      "IFC Films",
+      "(United States)"
+    ],
+    "Release dates": [
+      "21 May 2008 ( 2008-05-21 ) ( Cannes )",
+      "5 September 2008 ( 2008-09-05 ) (Spain: The Argentine )",
+      "12 December 2008 ( 2008-12-12 ) (United States)",
+      "7 January 2009 ( 2009-01-07 ) (France: The Argentine )",
+      "27 January 2009 ( 2009-01-27 ) (France: Guerrilla )",
+      "27 February 2009 ( 2009-02-27 ) (Spain: Guerrilla )"
+    ],
+    "Running time": "257 minutes",
+    "Countries": [
+      "Spain",
+      "Germany",
+      "France",
+      "United States"
+    ],
+    "Languages": [
+      "Spanish",
+      "English"
+    ],
+    "Budget": "US$58 million",
+    "Box office": "US$42.8 million",
+    "Running time (int)": 257,
+    "Budget (float)": 58000000.0,
+    "Box office (float)": 42800000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.0",
+    "metascore": "N/A",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Ponyo",
+    "Japanese": "崖の上のポニョ",
+    "Hepburn": "Gake no Ue no Ponyo",
+    "Directed by": "Hayao Miyazaki",
+    "Written by": "Hayao Miyazaki",
+    "Based on": [
+      "The Little Mermaid",
+      "by",
+      "Hans Christian Andersen"
+    ],
+    "Produced by": "Toshio Suzuki",
+    "Starring": [
+      "Tomoko Yamaguchi",
+      "Kazushige Nagashima",
+      "Yūki Amami",
+      "George Tokoro",
+      "Yuria Nara",
+      "Hiroki Doi",
+      "Rumi Hiiragi",
+      "Akiko Yano",
+      "Kazuko Yoshiyuki",
+      "Tomoko Naraoka"
+    ],
+    "Cinematography": "Atsushi Okui",
+    "Edited by": "Takeshi Seyama",
+    "Music by": "Joe Hisaishi",
+    "Production company": "Studio Ghibli",
+    "Distributed by": "Toho",
+    "Release date": [
+      "July 19, 2008 ( 2008-07-19 )"
+    ],
+    "Running time": "101 minutes",
+    "Country": "Japan",
+    "Language": "Japanese",
+    "Budget": [
+      "¥",
+      "3.4 billion",
+      "(",
+      "US$",
+      "34 million)"
+    ],
+    "Box office": "US$ 204.8 million",
+    "Running time (int)": 101,
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Release date (datetime)": "July 19, 2008",
+    "imdb": "7.6",
+    "metascore": "86",
+    "rotten_tomatoes": "91%"
+  },
+  {
+    "title": "The Informant!",
+    "Directed by": "Steven Soderbergh",
+    "Screenplay by": "Scott Z. Burns",
+    "Based on": [
+      "The Informant",
+      "by",
+      "Kurt Eichenwald"
+    ],
+    "Produced by": [
+      "Gregory Jacobs",
+      "Jennifer Fox",
+      "Michael Jaffe",
+      "Howard Braunstein",
+      "Kurt Eichenwald"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Scott Bakula",
+      "Joel McHale",
+      "Melanie Lynskey"
+    ],
+    "Cinematography": "Peter Andrews",
+    "Edited by": "Stephen Mirrione",
+    "Music by": "Marvin Hamlisch",
+    "Production companies": [
+      "Participant Media",
+      "Groundswell Productions",
+      "Section Eight"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "September 18, 2009 ( 2009-09-18 )"
+    ],
+    "Running time": "108 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$22 million",
+    "Box office": "$41.8 million",
+    "Running time (int)": 108,
+    "Budget (float)": 22000000.0,
+    "Box office (float)": 41800000.0,
+    "Release date (datetime)": "September 18, 2009",
+    "imdb": "6.5",
+    "metascore": "66",
+    "rotten_tomatoes": "79%"
+  },
+  {
+    "title": "Invictus",
+    "Directed by": "Clint Eastwood",
+    "Screenplay by": "Anthony Peckham",
+    "Based on": [
+      "Playing the Enemy: Nelson Mandela and the Game that Made a Nation",
+      "2008 book",
+      "by",
+      "John Carlin"
+    ],
+    "Produced by": [
+      "Clint Eastwood",
+      "Lori McCreary",
+      "Robert Lorenz",
+      "Mace Neufeld"
+    ],
+    "Starring": [
+      "Morgan Freeman",
+      "Matt Damon"
+    ],
+    "Cinematography": "Tom Stern",
+    "Edited by": [
+      "Joel Cox",
+      "Gary D. Roach"
+    ],
+    "Music by": [
+      "Kyle Eastwood",
+      "Michael Stevens"
+    ],
+    "Production companies": [
+      "Spyglass Entertainment",
+      "Malpaso Productions",
+      "Revelations Entertainment",
+      "Mace Neufeld Productions",
+      "Liberty Pictures"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release date": [
+      "December 11, 2009 ( 2009-12-11 )"
+    ],
+    "Running time": "133 minutes",
+    "Countries": [
+      "South Africa",
+      "United States"
+    ],
+    "Languages": [
+      "Afrikaans",
+      "English",
+      "Māori",
+      "Southern Sotho",
+      "Xhosa",
+      "Zulu"
+    ],
+    "Budget": "$50–60 million",
+    "Box office": "$122.2 million",
+    "Running time (int)": 133,
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 122200000.0,
+    "Release date (datetime)": "December 11, 2009",
+    "imdb": "7.3",
+    "metascore": "74",
+    "rotten_tomatoes": "76%"
+  },
+  {
+    "title": "Green Zone",
+    "Directed by": "Paul Greengrass",
+    "Written by": "Brian Helgeland",
+    "Based on": [
+      "Imperial Life in the Emerald City",
+      "by",
+      "Rajiv Chandrasekaran"
+    ],
+    "Produced by": [
+      "Tim Bevan",
+      "Eric Fellner",
+      "Lloyd Levin",
+      "Paul Greengrass"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Greg Kinnear",
+      "Brendan Gleeson",
+      "Amy Ryan",
+      "Khalid Abdalla",
+      "Jason Isaacs"
+    ],
+    "Cinematography": "Barry Ackroyd",
+    "Edited by": "Christopher Rouse",
+    "Music by": "John Powell",
+    "Production companies": [
+      "Working Title Films",
+      "StudioCanal",
+      "Relativity Media",
+      "Antena 3 Films",
+      "Dentsu"
+    ],
+    "Distributed by": [
+      "Universal Pictures (International)",
+      "StudioCanal (France)"
+    ],
+    "Release dates": [
+      "February 26, 2010 ( 2010-02-26 ) ( YIFFF )",
+      "March 12, 2010 ( 2010-03-12 ) (United States and United Kingdom)"
+    ],
+    "Running time": "115 minutes",
+    "Countries": [
+      "France",
+      "Spain",
+      "United States",
+      "United Kingdom"
+    ],
+    "Languages": [
+      "English",
+      "Arabic"
+    ],
+    "Budget": "$100 million",
+    "Box office": "$94.9 million",
+    "Running time (int)": 115,
+    "Budget (float)": 100000000.0,
+    "Box office (float)": 94900000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.8",
+    "metascore": "63",
+    "rotten_tomatoes": "53%"
+  },
+  {
+    "title": "Hereafter",
+    "Directed by": "Clint Eastwood",
+    "Written by": "Peter Morgan",
+    "Produced by": [
+      "Clint Eastwood",
+      "Kathleen Kennedy",
+      "Robert Lorenz"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Cécile de France"
+    ],
+    "Cinematography": "Tom Stern",
+    "Edited by": [
+      "Joel Cox",
+      "Gary D. Roach"
+    ],
+    "Music by": "Clint Eastwood",
+    "Production companies": [
+      "The Kennedy/Marshall Company",
+      "Malpaso Productions",
+      "Amblin Entertainment"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release dates": [
+      "September 12, 2010 ( 2010-09-12 ) ( TIFF )",
+      "October 22, 2010 ( 2010-10-22 ) (United States)"
+    ],
+    "Running time": "129 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "French"
+    ],
+    "Budget": "$50 million",
+    "Box office": "$107 million",
+    "Running time (int)": 129,
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 107000000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.5",
+    "metascore": "56",
+    "rotten_tomatoes": "47%"
+  },
+  {
+    "title": "True Grit",
+    "Directed by": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "Written by": [
+      "Joel Coen",
+      "Ethan Coen"
+    ],
+    "Based on": [
+      "True Grit",
+      "by",
+      "Charles Portis"
+    ],
+    "Produced by": [
+      "Joel Coen",
+      "Ethan Coen",
+      "Scott Rudin"
+    ],
+    "Starring": [
+      "Jeff Bridges",
+      "Matt Damon",
+      "Josh Brolin",
+      "Hailee Steinfeld",
+      "Barry Pepper"
+    ],
+    "Cinematography": "Roger Deakins",
+    "Edited by": "Roderick Jaynes",
+    "Music by": "Carter Burwell",
+    "Production companies": [
+      "Skydance Productions",
+      "Mike Zoss Productions",
+      "Scott Rudin Productions"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release date": [
+      "December 22, 2010 ( 2010-12-22 ) (United States)"
+    ],
+    "Running time": "110 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$35–38 million",
+    "Box office": "$252.3 million",
+    "Running time (int)": 110,
+    "Budget (float)": 35000000.0,
+    "Box office (float)": 252300000.0,
+    "Release date (datetime)": "December 22, 2010",
+    "imdb": "7.6",
+    "metascore": "80",
+    "rotten_tomatoes": "95%"
+  },
+  {
+    "title": "Inside Job",
+    "Directed by": "Charles Ferguson",
+    "Produced by": [
+      "Audrey Marrs",
+      "Charles Ferguson"
+    ],
+    "Narrated by": "Matt Damon",
+    "Cinematography": [
+      "Svetlana Cvetko",
+      "Kalyanee Mam"
+    ],
+    "Edited by": [
+      "Chad Beck",
+      "Adam Bolt"
+    ],
+    "Music by": "Alex Heffes",
+    "Distributed by": "Sony Pictures Classics",
+    "Release dates": [
+      "May 16, 2010 ( 2010-05-16 ) ( Cannes )",
+      "October 8, 2010 ( 2010-10-08 ) (United States)"
+    ],
+    "Running time": "108 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2 million",
+    "Box office": "$7.9 million",
+    "Running time (int)": 108,
+    "Budget (float)": 2000000.0,
+    "Box office (float)": 7900000.0,
+    "Release date (datetime)": null,
+    "imdb": "8.2",
+    "metascore": "88",
+    "rotten_tomatoes": "98%"
+  },
+  {
+    "title": "The Adjustment Bureau",
+    "Directed by": "George Nolfi",
+    "Screenplay by": "George Nolfi",
+    "Based on": [
+      "\"",
+      "Adjustment Team",
+      "\"",
+      "by",
+      "Philip K. Dick"
+    ],
+    "Produced by": [
+      "Michael Hackett",
+      "George Nolfi",
+      "Bill Carraro",
+      "Chris Moore"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Emily Blunt",
+      "Anthony Mackie",
+      "John Slattery",
+      "Michael Kelly",
+      "Terence Stamp"
+    ],
+    "Cinematography": "John Toll",
+    "Edited by": "Jay Rabinowitz",
+    "Music by": "Thomas Newman",
+    "Production companies": [
+      "Media Rights Capital",
+      "Gambit Pictures",
+      "Electric Shepherd Productions"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release dates": [
+      "February 14, 2011 ( 2011-02-14 ) ( Ziegfeld Theatre )",
+      "March 4, 2011 ( 2011-03-04 ) (United States)"
+    ],
+    "Running time": "106 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$50.2 million",
+    "Box office": "$127.9 million",
+    "Running time (int)": 106,
+    "Budget (float)": 50200000.0,
+    "Box office (float)": 127900000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.0",
+    "metascore": "60",
+    "rotten_tomatoes": "71%"
+  },
+  {
+    "title": "Contagion",
+    "Directed by": "Steven Soderbergh",
+    "Written by": "Scott Z. Burns",
+    "Produced by": [
+      "Michael Shamberg",
+      "Stacey Sher",
+      "Gregory Jacobs"
+    ],
+    "Starring": [
+      "Marion Cotillard",
+      "Matt Damon",
+      "Laurence Fishburne",
+      "Jude Law",
+      "Gwyneth Paltrow",
+      "Kate Winslet",
+      "Bryan Cranston",
+      "Jennifer Ehle",
+      "Sanaa Lathan"
+    ],
+    "Cinematography": "Peter Andrews",
+    "Edited by": "Stephen Mirrione",
+    "Music by": "Cliff Martinez",
+    "Production companies": [
+      "Participant Media",
+      "Imagenation Abu Dhabi",
+      "Double Feature Films"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release dates": [
+      "September 3, 2011 ( 2011-09-03 ) ( Venice )",
+      "September 9, 2011 ( 2011-09-09 ) (United States)"
+    ],
+    "Running time": "106 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$60 million",
+    "Box office": "$136.5 million",
+    "Running time (int)": 106,
+    "Budget (float)": 60000000.0,
+    "Box office (float)": 136500000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.8",
+    "metascore": "70",
+    "rotten_tomatoes": "85%"
+  },
+  {
+    "title": "Margaret",
+    "Directed by": "Kenneth Lonergan",
+    "Written by": "Kenneth Lonergan",
+    "Produced by": [
+      "Sydney Pollack",
+      "Gary Gilbert",
+      "Scott Rudin"
+    ],
+    "Starring": [
+      "Anna Paquin",
+      "J. Smith-Cameron",
+      "Jean Reno",
+      "Allison Janney",
+      "Matthew Broderick",
+      "Mark Ruffalo",
+      "Matt Damon",
+      "Jeannie Berlin",
+      "Kieran Culkin"
+    ],
+    "Cinematography": "Ryszard Lenczewski",
+    "Edited by": [
+      "Anne McCabe",
+      "Michael Fay"
+    ],
+    "Music by": "Nico Muhly",
+    "Production companies": [
+      "Camelot Pictures",
+      "Gilbert Films",
+      "Mirage Enterprises",
+      "Scott Rudin Productions"
+    ],
+    "Distributed by": "Fox Searchlight Pictures",
+    "Release date": [
+      "September 30, 2011 ( 2011-09-30 )"
+    ],
+    "Running time": [
+      "150 minutes",
+      "186 minutes",
+      "(",
+      "Extended cut",
+      ")"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$14 million",
+    "Box office": "$623,292",
+    "Running time (int)": 150,
+    "Budget (float)": 14000000.0,
+    "Box office (float)": 623292.0,
+    "Release date (datetime)": "September 30, 2011",
+    "imdb": "6.5",
+    "metascore": "61",
+    "rotten_tomatoes": "75%"
+  },
+  {
+    "title": "Happy Feet Two",
+    "Directed by": "George Miller",
+    "Written by": [
+      "George Miller",
+      "Gary Eck",
+      "Warren Coleman",
+      "Paul Livingston"
+    ],
+    "Produced by": [
+      "George Miller",
+      "Bill Miller",
+      "Doug Mitchell"
+    ],
+    "Starring": [
+      "Elijah Wood",
+      "Robin Williams",
+      "Hank Azaria",
+      "P!nk",
+      "Brad Pitt",
+      "Matt Damon",
+      "Richard Carter",
+      "Common",
+      "Sofia Vergara",
+      "Magda Szubanski",
+      "Hugo Weaving",
+      "Anthony LaPaglia"
+    ],
+    "Cinematography": [
+      "David Dulac",
+      "David Peers"
+    ],
+    "Edited by": "Christian Gazal",
+    "Music by": "John Powell",
+    "Production companies": [
+      "Village Roadshow Pictures",
+      "Kennedy Miller Mitchell",
+      "Dr. D Studios"
+    ],
+    "Distributed by": [
+      "Warner Bros. Pictures (International)",
+      "Roadshow Entertainment (Australia & New Zealand)"
+    ],
+    "Release dates": [
+      "November 13, 2011 ( 2011-11-13 ) ( Grauman's Chinese Theatre )",
+      "November 18, 2011 ( 2011-11-18 ) (United States)",
+      "December 26, 2011 ( 2011-12-26 ) (Australia)"
+    ],
+    "Running time": "100 minutes",
+    "Countries": [
+      "Australia",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$135 million",
+    "Box office": "$150.4 million",
+    "Running time (int)": 100,
+    "Budget (float)": 135000000.0,
+    "Box office (float)": 150400000.0,
+    "Release date (datetime)": null,
+    "imdb": "5.8",
+    "metascore": "50",
+    "rotten_tomatoes": "45%"
+  },
+  {
+    "title": "We Bought a Zoo",
+    "Directed by": "Cameron Crowe",
+    "Screenplay by": [
+      "Aline Brosh McKenna",
+      "Cameron Crowe"
+    ],
+    "Based on": [
+      "We Bought a Zoo",
+      "by Benjamin Mee"
+    ],
+    "Produced by": [
+      "Julie Yorn",
+      "Cameron Crowe",
+      "Marc Gordon"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Scarlett Johansson",
+      "Thomas Haden Church",
+      "Colin Ford",
+      "Elle Fanning",
+      "Maggie Elizabeth Jones",
+      "Patrick Fugit",
+      "John Michael Higgins"
+    ],
+    "Cinematography": "Rodrigo Prieto",
+    "Edited by": "Mark Livolsi",
+    "Music by": "Jónsi",
+    "Production companies": [
+      "Vinyl Films",
+      "LBI Entertainment",
+      "Dune Entertainment"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release dates": [
+      "December 12, 2011 ( 2011-12-12 ) ( Ziegfeld Theatre )",
+      "December 21, 2011 ( 2011-12-21 ) (United States)"
+    ],
+    "Running time": "124 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$50 million",
+    "Box office": "$120.1 million",
+    "Running time (int)": 124,
+    "Budget (float)": 50000000.0,
+    "Box office (float)": 120100000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.1",
+    "metascore": "58",
+    "rotten_tomatoes": "65%"
+  },
+  {
+    "title": "Promised Land",
+    "Directed by": "Gus Van Sant",
+    "Screenplay by": [
+      "John Krasinski",
+      "Matt Damon"
+    ],
+    "Story by": "Dave Eggers",
+    "Produced by": [
+      "Chris Moore",
+      "Matt Damon",
+      "John Krasinski"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "John Krasinski",
+      "Frances McDormand",
+      "Rosemarie DeWitt",
+      "Hal Holbrook"
+    ],
+    "Cinematography": "Linus Sandgren",
+    "Edited by": "Billy Rich",
+    "Music by": "Danny Elfman",
+    "Production companies": [
+      "Participant Media",
+      "Image Nation Abu Dhabi",
+      "Pearl Street Films",
+      "Sunday Night Productions"
+    ],
+    "Distributed by": "Focus Features",
+    "Release dates": [
+      "December 4, 2012 ( 2012-12-04 ) ( New York City )",
+      "December 28, 2012 ( 2012-12-28 ) (United States)"
+    ],
+    "Running time": "106 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$15 million",
+    "Box office": "$12.3 million",
+    "Running time (int)": 106,
+    "Budget (float)": 15000000.0,
+    "Box office (float)": 12300000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.6",
+    "metascore": "55",
+    "rotten_tomatoes": "53%"
+  },
+  {
+    "title": "Elysium",
+    "Directed by": "Neill Blomkamp",
+    "Written by": "Neill Blomkamp",
+    "Produced by": [
+      "Bill Block",
+      "Neill Blomkamp",
+      "Simon Kinberg"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Jodie Foster",
+      "Sharlto Copley",
+      "Alice Braga",
+      "Diego Luna",
+      "Wagner Moura",
+      "William Fichtner"
+    ],
+    "Cinematography": "Trent Opaloch",
+    "Edited by": [
+      "Julian Clarke",
+      "Lee Smith"
+    ],
+    "Music by": "Ryan Amon",
+    "Production companies": [
+      "TriStar Pictures",
+      "Media Rights Capital",
+      "QED International",
+      "Alphacore",
+      "Kinberg Genre"
+    ],
+    "Distributed by": "Sony Pictures Releasing",
+    "Release dates": [
+      "August 7, 2013 ( 2013-08-07 ) (Taiwan)",
+      "August 9, 2013 ( 2013-08-09 ) (United States)"
+    ],
+    "Running time": "109 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$115 million",
+    "Box office": "$286.1 million",
+    "Running time (int)": 109,
+    "Budget (float)": 115000000.0,
+    "Box office (float)": 286100000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.6",
+    "metascore": "61",
+    "rotten_tomatoes": "64%"
+  },
+  {
+    "title": "The Zero Theorem",
+    "Directed by": "Terry Gilliam",
+    "Written by": "Pat Rushin",
+    "Produced by": [
+      "Nicolas Chartier",
+      "Dean Zanuck"
+    ],
+    "Starring": [
+      "Christoph Waltz",
+      "David Thewlis",
+      "Mélanie Thierry",
+      "Lucas Hedges"
+    ],
+    "Cinematography": "Nicola Pecorini",
+    "Edited by": "Mick Audsley",
+    "Music by": "George Fenton",
+    "Production companies": [
+      "MediaPro Studios",
+      "Voltage Pictures",
+      "Zanuck Independent",
+      "A&E Productions"
+    ],
+    "Distributed by": "Stage 6 Films",
+    "Release dates": [
+      "2 September 2013 ( 2013-09-02 ) ( Venice )",
+      "14 March 2014 ( 2014-03-14 ) (United Kingdom)"
+    ],
+    "Running time": "106 minutes",
+    "Countries": [
+      "United Kingdom",
+      "Romania",
+      "France"
+    ],
+    "Languages": [
+      "English",
+      "Romanian"
+    ],
+    "Budget": "$8.5–13.5 million",
+    "Box office": "$1.2 million",
+    "Running time (int)": 106,
+    "Budget (float)": 8500000.0,
+    "Box office (float)": 1200000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.0",
+    "metascore": "50",
+    "rotten_tomatoes": "48%"
+  },
+  {
+    "title": "The Monuments Men",
+    "Directed by": "George Clooney",
+    "Written by": [
+      "George Clooney",
+      "Grant Heslov"
+    ],
+    "Based on": [
+      "The Monuments Men",
+      "by",
+      "Robert M. Edsel",
+      "with",
+      "Bret Witter"
+    ],
+    "Produced by": [
+      "George Clooney",
+      "Grant Heslov"
+    ],
+    "Starring": [
+      "George Clooney",
+      "Matt Damon",
+      "Bill Murray",
+      "John Goodman",
+      "Jean Dujardin",
+      "Bob Balaban",
+      "Hugh Bonneville",
+      "Cate Blanchett"
+    ],
+    "Cinematography": "Phedon Papamichael",
+    "Edited by": "Stephen Mirrione",
+    "Music by": "Alexandre Desplat",
+    "Production companies": [
+      "Columbia Pictures",
+      "Fox 2000 Pictures",
+      "Smokehouse Pictures",
+      "Studio Babelsberg"
+    ],
+    "Distributed by": [
+      "Sony Pictures Releasing (North America)",
+      "20th Century Fox (International)"
+    ],
+    "Release dates": [
+      "February 7, 2014 ( 2014-02-07 ) (United States)",
+      "February 20, 2014 ( 2014-02-20 ) (Germany)"
+    ],
+    "Running time": "118 minutes",
+    "Countries": [
+      "Germany",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$70–91 million",
+    "Box office": "$155 million",
+    "Running time (int)": 118,
+    "Budget (float)": 70000000.0,
+    "Box office (float)": 155000000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.1",
+    "metascore": "52",
+    "rotten_tomatoes": "31%"
+  },
+  {
+    "title": "The Man Who Saved the World",
+    "Directed by": "Peter Anthony",
+    "Written by": "Peter Anthony",
+    "Produced by": "Jakob Staberg",
+    "Starring": [
+      "Stanislav Petrov",
+      "Galina Kalinina",
+      "Sergey Shnyryov",
+      "[",
+      "ru",
+      "]",
+      "Kevin Costner"
+    ],
+    "Cinematography": [
+      "Kim Hattesen",
+      "Anders Löfstedt"
+    ],
+    "Edited by": "Morten Højbjerg",
+    "Music by": "Kristian Eidnes Andersen",
+    "Production companies": [
+      "Statement Film",
+      "Light Cone Pictures",
+      "Studio Mao (in association with)"
+    ],
+    "Distributed by": "Syndicado",
+    "Release date": [
+      "27 April 2013 ( 2013-04-27 ) (Hot Docs)"
+    ],
+    "Running time": "110 minutes",
+    "Country": "Denmark",
+    "Languages": "English and Russian",
+    "Running time (int)": 110,
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Release date (datetime)": "April 27, 2013",
+    "imdb": "4.4",
+    "metascore": "N/A",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Interstellar",
+    "Directed by": "Christopher Nolan",
+    "Written by": [
+      "Jonathan Nolan",
+      "Christopher Nolan"
+    ],
+    "Produced by": [
+      "Emma Thomas",
+      "Christopher Nolan",
+      "Lynda Obst"
+    ],
+    "Starring": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Bill Irwin",
+      "Ellen Burstyn",
+      "Michael Caine"
+    ],
+    "Cinematography": "Hoyte van Hoytema",
+    "Edited by": "Lee Smith",
+    "Music by": "Hans Zimmer",
+    "Production companies": [
+      "Legendary Pictures",
+      "Syncopy",
+      "Lynda Obst Productions"
+    ],
+    "Distributed by": [
+      "Paramount Pictures (North America)",
+      "Warner Bros. Pictures (International)"
+    ],
+    "Release dates": [
+      "October 26, 2014 ( 2014-10-26 ) ( TCL Chinese Theatre )",
+      "November 5, 2014 ( 2014-11-05 ) (United States)",
+      "November 7, 2014 ( 2014-11-07 ) (United Kingdom)"
+    ],
+    "Running time": "169 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$165 million",
+    "Box office": "$773.8 million",
+    "Running time (int)": 169,
+    "Budget (float)": 165000000.0,
+    "Box office (float)": 773800000.0,
+    "Release date (datetime)": null,
+    "imdb": "8.6",
+    "metascore": "74",
+    "rotten_tomatoes": "73%"
+  },
+  {
+    "title": "The Martian",
+    "Directed by": "Ridley Scott",
+    "Screenplay by": "Drew Goddard",
+    "Based on": [
+      "The Martian",
+      "2011 novel",
+      "by",
+      "Andy Weir"
+    ],
+    "Produced by": [
+      "Simon Kinberg",
+      "Ridley Scott",
+      "Michael Schaefer",
+      "Mark Huffam"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Jessica Chastain",
+      "Kristen Wiig",
+      "Jeff Daniels",
+      "Michael Peña",
+      "Kate Mara",
+      "Sean Bean",
+      "Sebastian Stan",
+      "Aksel Hennie",
+      "Chiwetel Ejiofor"
+    ],
+    "Cinematography": "Dariusz Wolski",
+    "Edited by": "Pietro Scalia",
+    "Music by": "Harry Gregson-Williams",
+    "Production companies": [
+      "Scott Free Productions",
+      "Kinberg Genre",
+      "TSG Entertainment"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release dates": [
+      "September 11, 2015 ( 2015-09-11 ) ( TIFF )",
+      "September 30, 2015 ( 2015-09-30 ) (United Kingdom)",
+      "October 2, 2015 ( 2015-10-02 ) (United States)"
+    ],
+    "Running time": "141 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$108 million",
+    "Box office": "$630.6 million",
+    "Running time (int)": 141,
+    "Budget (float)": 108000000.0,
+    "Box office (float)": 630600000.0,
+    "Release date (datetime)": null,
+    "imdb": "8.0",
+    "metascore": "80",
+    "rotten_tomatoes": "91%"
+  },
+  {
+    "title": "Manchester by the Sea",
+    "Directed by": "Kenneth Lonergan",
+    "Written by": "Kenneth Lonergan",
+    "Produced by": [
+      "Matt Damon",
+      "Kimberly Steward",
+      "Chris Moore",
+      "Lauren Beck",
+      "Kevin J. Walsh"
+    ],
+    "Starring": [
+      "Casey Affleck",
+      "Michelle Williams",
+      "Kyle Chandler",
+      "Lucas Hedges"
+    ],
+    "Cinematography": "Jody Lee Lipes",
+    "Edited by": "Jennifer Lame",
+    "Music by": "Lesley Barber",
+    "Production companies": [
+      "K Period Media",
+      "Pearl Street Films",
+      "The Media Farm",
+      "The Affleck / Middleton Project",
+      "B Story"
+    ],
+    "Distributed by": [
+      "Amazon Studios",
+      "Roadside Attractions"
+    ],
+    "Release dates": [
+      "January 23, 2016 ( 2016-01-23 ) ( Sundance )",
+      "November 18, 2016 ( 2016-11-18 ) (United States)"
+    ],
+    "Running time": "137 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$9 million",
+    "Box office": "$79 million",
+    "Running time (int)": 137,
+    "Budget (float)": 9000000.0,
+    "Box office (float)": 79000000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.8",
+    "metascore": "96",
+    "rotten_tomatoes": "96%"
+  },
+  {
+    "title": "Jason Bourne",
+    "Directed by": "Paul Greengrass",
+    "Written by": [
+      "Paul Greengrass",
+      "Christopher Rouse"
+    ],
+    "Based on": [
+      "Characters",
+      "by",
+      "Robert Ludlum"
+    ],
+    "Produced by": [
+      "Frank Marshall",
+      "Jeffrey M. Weiner",
+      "Ben Smith",
+      "Matt Damon",
+      "Paul Greengrass",
+      "Gregory Goodman"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Tommy Lee Jones",
+      "Alicia Vikander",
+      "Vincent Cassel",
+      "Julia Stiles",
+      "Riz Ahmed"
+    ],
+    "Cinematography": "Barry Ackroyd",
+    "Edited by": "Christopher Rouse",
+    "Music by": [
+      "John Powell",
+      "David Buckley"
+    ],
+    "Production companies": [
+      "Perfect World Pictures",
+      "Kennedy/Marshall",
+      "Captivate Entertainment",
+      "Pearl Street"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release dates": [
+      "July 11, 2016 ( 2016-07-11 ) ( Odeon Leicester Square )",
+      "July 29, 2016 ( 2016-07-29 ) (United States)"
+    ],
+    "Running time": "123 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$120 million",
+    "Box office": "$415.5 million",
+    "Running time (int)": 123,
+    "Budget (float)": 120000000.0,
+    "Box office (float)": 415500000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.6",
+    "metascore": "58",
+    "rotten_tomatoes": "54%"
+  },
+  {
+    "title": "The Great Wall",
+    "Simplified": "长城",
+    "Mandarin": "Cháng Chéng",
+    "Directed by": "Zhang Yimou",
+    "Screenplay by": [
+      "Carlo Bernard",
+      "Doug Miro",
+      "Tony Gilroy"
+    ],
+    "Story by": [
+      "Max Brooks",
+      "Edward Zwick",
+      "Marshall Herskovitz"
+    ],
+    "Produced by": [
+      "Thomas Tull",
+      "Charles Roven",
+      "Jon Jashni",
+      "Peter Loehr"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Jing Tian",
+      "Pedro Pascal",
+      "Willem Dafoe",
+      "Andy Lau"
+    ],
+    "Cinematography": [
+      "Stuart Dryburgh",
+      "Zhao Xiaoding"
+    ],
+    "Edited by": [
+      "Mary Jo Markey",
+      "Craig Wood"
+    ],
+    "Music by": "Ramin Djawadi",
+    "Production companies": [
+      "Legendary Pictures",
+      "Legendary East",
+      "Universal Pictures",
+      "Atlas Entertainment",
+      "China Film Group",
+      "Le Vision Pictures",
+      "Dentsu",
+      "Fuji TV"
+    ],
+    "Distributed by": [
+      "China Film Group (China)",
+      "Universal Pictures (United States)",
+      "United International Pictures (International)"
+    ],
+    "Release dates": [
+      "December 6, 2016 ( 2016-12-06 ) ( Beijing )",
+      "December 16, 2016 ( 2016-12-16 ) (China)",
+      "February 17, 2017 ( 2017-02-17 ) (United States)",
+      "April 14, 2017 ( 2017-04-14 ) (Japan)"
+    ],
+    "Running time": "103 minutes",
+    "Countries": [
+      "China",
+      "United States",
+      "Japan"
+    ],
+    "Languages": [
+      "English",
+      "Mandarin"
+    ],
+    "Budget": "$150 million",
+    "Box office": "$334.9 million",
+    "Running time (int)": 103,
+    "Budget (float)": 150000000.0,
+    "Box office (float)": 334900000.0,
+    "Release date (datetime)": null,
+    "imdb": "5.9",
+    "metascore": "42",
+    "rotten_tomatoes": "35%"
+  },
+  {
+    "title": "Bending the Arc",
+    "Directed by": "Kief Davidson, Pedro Kos",
+    "Written by": "Cori Shepherd Stern",
+    "Produced by": "Cori Shepherd Stern, Executive producers: Matt Damon and Ben Affleck",
+    "Starring": "Jim Yong Kim , Paul Farmer , Ophelia Dahl , Agnes Binagwaho",
+    "Cinematography": "David Murdock, Guy Mossman, Joshua Dreyfus",
+    "Edited by": "Pedro Kos, Yuki Aizawa",
+    "Production company": "Impact Partners",
+    "Release date": [
+      "January 23, 2017 ( 2017-01-23 ) (Sundance)"
+    ],
+    "Running time": "102 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Running time (int)": 102,
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Release date (datetime)": "January 23, 2017",
+    "imdb": "8.1",
+    "metascore": "80",
+    "rotten_tomatoes": "100%"
+  },
+  {
+    "title": "Downsizing",
+    "Directed by": "Alexander Payne",
+    "Written by": [
+      "Alexander Payne",
+      "Jim Taylor"
+    ],
+    "Produced by": [
+      "Mark Johnson",
+      "Alexander Payne",
+      "Jim Taylor"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Christoph Waltz",
+      "Hong Chau",
+      "Kristen Wiig"
+    ],
+    "Cinematography": "Phedon Papamichael",
+    "Edited by": "Kevin Tent",
+    "Music by": "Rolfe Kent",
+    "Production companies": [
+      "Ad Hominem Enterprises",
+      "Gran Via Productions"
+    ],
+    "Distributed by": "Paramount Pictures",
+    "Release dates": [
+      "August 30, 2017 ( 2017-08-30 ) ( Venice )",
+      "December 22, 2017 ( 2017-12-22 ) (United States)"
+    ],
+    "Running time": "135 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$68–76 million",
+    "Box office": "$55 million",
+    "Running time (int)": 135,
+    "Budget (float)": 68000000.0,
+    "Box office (float)": 55000000.0,
+    "Release date (datetime)": null,
+    "imdb": "5.8",
+    "metascore": "63",
+    "rotten_tomatoes": "47%"
+  },
+  {
+    "title": "Suburbicon",
+    "Directed by": "George Clooney",
+    "Written by": [
+      "Joel Coen Ethan Coen",
+      "George Clooney",
+      "Grant Heslov"
+    ],
+    "Produced by": [
+      "George Clooney",
+      "Grant Heslov",
+      "Teddy Schwarzman"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Julianne Moore",
+      "Noah Jupe",
+      "Oscar Isaac"
+    ],
+    "Cinematography": "Robert Elswit",
+    "Edited by": "Stephen Mirrione",
+    "Music by": "Alexandre Desplat",
+    "Production companies": [
+      "Paramount Pictures",
+      "Black Bear Pictures",
+      "Dark Castle Entertainment",
+      "Silver Pictures",
+      "Smokehouse Pictures"
+    ],
+    "Distributed by": [
+      "Paramount Pictures (North America)",
+      "Bloom (International)"
+    ],
+    "Release dates": [
+      "September 2, 2017 ( 2017-09-02 ) ( Venice )",
+      "October 27, 2017 ( 2017-10-27 ) (United States)"
+    ],
+    "Running time": "105 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$25 million",
+    "Box office": "$12.8 million",
+    "Running time (int)": 105,
+    "Budget (float)": 25000000.0,
+    "Box office (float)": 12800000.0,
+    "Release date (datetime)": null,
+    "imdb": "5.7",
+    "metascore": "42",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "Directed by": "Taika Waititi",
+    "Written by": [
+      "Eric Pearson",
+      "Craig Kyle",
+      "Christopher L. Yost"
+    ],
+    "Based on": [
+      "Stan Lee",
+      "Larry Lieber",
+      "Jack Kirby"
+    ],
+    "Produced by": "Kevin Feige",
+    "Starring": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett",
+      "Idris Elba",
+      "Jeff Goldblum",
+      "Tessa Thompson",
+      "Karl Urban",
+      "Mark Ruffalo",
+      "Anthony Hopkins"
+    ],
+    "Cinematography": "Javier Aguirresarobe",
+    "Edited by": [
+      "Joel Negron",
+      "Zene Baker"
+    ],
+    "Music by": "Mark Mothersbaugh",
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "October 10, 2017 ( 2017-10-10 ) ( El Capitan Theatre )",
+      "November 3, 2017 ( 2017-11-03 ) (United States)"
+    ],
+    "Running time": "130 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$180 million",
+    "Box office": "$854 million",
+    "Running time (int)": 130,
+    "Budget (float)": 180000000.0,
+    "Box office (float)": 854000000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.9",
+    "metascore": "74",
+    "rotten_tomatoes": "93%"
+  },
+  {
+    "title": "Unsane",
+    "Directed by": "Steven Soderbergh",
+    "Written by": [
+      "Jonathan Bernstein",
+      "James Greer"
+    ],
+    "Produced by": "Joseph Malloch",
+    "Starring": [
+      "Claire Foy",
+      "Joshua Leonard",
+      "Jay Pharoah",
+      "Juno Temple",
+      "Aimee Mullins",
+      "Amy Irving"
+    ],
+    "Cinematography": [
+      "Steven Soderbergh",
+      "(as Peter Andrews)"
+    ],
+    "Edited by": [
+      "Steven Soderbergh",
+      "(as Mary Ann Bernard)"
+    ],
+    "Music by": "David Wilder Savage",
+    "Production companies": [
+      "Regency Enterprises",
+      "Fingerprint Releasing",
+      "Extension 765"
+    ],
+    "Distributed by": [
+      "Fingerprint Releasing",
+      "Bleecker Street (United States)",
+      "20th Century Fox (International)"
+    ],
+    "Release dates": [
+      "February 21, 2018 ( 2018-02-21 ) ( Berlinale )",
+      "March 23, 2018 ( 2018-03-23 ) (United States)"
+    ],
+    "Running time": "98 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.5 million",
+    "Box office": "$14.3 million",
+    "Running time (int)": 98,
+    "Budget (float)": 1500000.0,
+    "Box office (float)": 14300000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.4",
+    "metascore": "63",
+    "rotten_tomatoes": "80%"
+  },
+  {
+    "title": "Deadpool 2",
+    "Directed by": "David Leitch",
+    "Written by": [
+      "Rhett Reese",
+      "Paul Wernick",
+      "Ryan Reynolds"
+    ],
+    "Based on": [
+      "Fabian Nicieza",
+      "Rob Liefeld"
+    ],
+    "Produced by": [
+      "Simon Kinberg",
+      "Ryan Reynolds",
+      "Lauren Shuler Donner"
+    ],
+    "Starring": [
+      "Ryan Reynolds",
+      "Josh Brolin",
+      "Morena Baccarin",
+      "Julian Dennison",
+      "Zazie Beetz",
+      "T.J. Miller",
+      "Brianna Hildebrand",
+      "Jack Kesy"
+    ],
+    "Cinematography": "Jonathan Sela",
+    "Edited by": [
+      "Dirk Westervelt",
+      "Craig Alpert",
+      "Elísabet Ronaldsdóttir"
+    ],
+    "Music by": "Tyler Bates",
+    "Production companies": [
+      "20th Century Fox",
+      "Marvel Entertainment",
+      "Kinberg Genre",
+      "Maximum Effort",
+      "The Donners' Company",
+      "TSG Entertainment"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release dates": [
+      "May 10, 2018 ( 2018-05-10 ) ( Leicester Square )",
+      "May 18, 2018 ( 2018-05-18 ) (United States)"
+    ],
+    "Running time": "119 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$110 million",
+    "Box office": "$785.8 million",
+    "Running time (int)": 119,
+    "Budget (float)": 110000000.0,
+    "Box office (float)": 785800000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.7",
+    "metascore": "66",
+    "rotten_tomatoes": "84%"
+  },
+  {
+    "title": "Ocean's 8",
+    "Directed by": "Gary Ross",
+    "Screenplay by": [
+      "Gary Ross",
+      "Olivia Milch"
+    ],
+    "Story by": "Gary Ross",
+    "Based on": [
+      "George Clayton Johnson",
+      "Jack Golden Russell"
+    ],
+    "Produced by": [
+      "Steven Soderbergh",
+      "Susan Ekins"
+    ],
+    "Starring": [
+      "Sandra Bullock",
+      "Cate Blanchett",
+      "Anne Hathaway",
+      "Mindy Kaling",
+      "Sarah Paulson",
+      "Awkwafina",
+      "Rihanna",
+      "Helena Bonham Carter"
+    ],
+    "Cinematography": "Eigil Bryld",
+    "Edited by": "Juliette Welfling",
+    "Music by": "Daniel Pemberton",
+    "Production companies": [
+      "Warner Bros. Pictures",
+      "Village Roadshow Pictures",
+      "Smokehouse Pictures",
+      "Larger Than Life Productions"
+    ],
+    "Distributed by": "Warner Bros. Pictures",
+    "Release dates": [
+      "June 5, 2018 ( 2018-06-05 ) ( Alice Tully Hall )",
+      "June 8, 2018 ( 2018-06-08 ) (United States)"
+    ],
+    "Running time": "110 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$70 million",
+    "Box office": "$297.8 million",
+    "Running time (int)": 110,
+    "Budget (float)": 70000000.0,
+    "Box office (float)": 297800000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.1",
+    "metascore": "N/A",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "Ford v Ferrari",
+    "Directed by": "James Mangold",
+    "Written by": [
+      "Jez Butterworth",
+      "John-Henry Butterworth",
+      "Jason Keller"
+    ],
+    "Produced by": [
+      "Peter Chernin",
+      "Jenno Topping",
+      "James Mangold"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Christian Bale",
+      "Jon Bernthal",
+      "Caitríona Balfe",
+      "Tracy Letts",
+      "Josh Lucas"
+    ],
+    "Cinematography": "Phedon Papamichael",
+    "Edited by": [
+      "Michael McCusker",
+      "Andrew Buckland"
+    ],
+    "Music by": [
+      "Marco Beltrami",
+      "Buck Sanders"
+    ],
+    "Production companies": [
+      "Chernin Entertainment",
+      "TSG Entertainment",
+      "Turnpike Films"
+    ],
+    "Distributed by": "20th Century Fox",
+    "Release dates": [
+      "August 30, 2019 ( 2019-08-30 ) ( Telluride )",
+      "November 15, 2019 ( 2019-11-15 ) (United States)"
+    ],
+    "Running time": "152 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$97.6 million",
+    "Box office": "$225.5 million",
+    "Running time (int)": 152,
+    "Budget (float)": 97600000.0,
+    "Box office (float)": 225500000.0,
+    "Release date (datetime)": null,
+    "imdb": "8.1",
+    "metascore": "81",
+    "rotten_tomatoes": "92%"
+  },
+  {
+    "title": "Jay and Silent Bob Reboot",
+    "Directed by": "Kevin Smith",
+    "Written by": "Kevin Smith",
+    "Based on": [
+      "Jay and Silent Bob",
+      "by",
+      "Kevin Smith"
+    ],
+    "Produced by": [
+      "Jordan Monsanto",
+      "Destro"
+    ],
+    "Starring": [
+      "Jason Mewes",
+      "Kevin Smith"
+    ],
+    "Cinematography": "Yaron Levy",
+    "Edited by": "Kevin Smith",
+    "Music by": "James L. Venable",
+    "Production companies": [
+      "View Askew Productions",
+      "Miramax",
+      "Destro Films",
+      "Mewesings",
+      "SMODCO",
+      "Hideout Pictures",
+      "Intercut Capital",
+      "Skit Bags Entertainment"
+    ],
+    "Distributed by": [
+      "Saban Films (United States)",
+      "Universal Pictures Home Entertainment (International)"
+    ],
+    "Release date": [
+      "October 15, 2019 ( 2019-10-15 ) (United States)"
+    ],
+    "Running time": "105 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$10 million",
+    "Box office": "$4.7 million",
+    "Running time (int)": 105,
+    "Budget (float)": 10000000.0,
+    "Box office (float)": 4700000.0,
+    "Release date (datetime)": "October 15, 2019",
+    "imdb": "5.6",
+    "metascore": "46",
+    "rotten_tomatoes": "64%"
+  },
+  {
+    "title": "No Sudden Move",
+    "Directed by": "Steven Soderbergh",
+    "Written by": "Ed Solomon",
+    "Produced by": "Casey Silver",
+    "Starring": [
+      "Don Cheadle",
+      "Benicio del Toro",
+      "David Harbour",
+      "Jon Hamm",
+      "Amy Seimetz",
+      "Brendan Fraser",
+      "Kieran Culkin",
+      "Noah Jupe",
+      "Craig muMs Grant",
+      "Julia Fox",
+      "Frankie Shaw",
+      "Ray Liotta",
+      "Bill Duke"
+    ],
+    "Cinematography": "Peter Andrews",
+    "Edited by": "Mary Ann Bernard",
+    "Music by": "David Holmes",
+    "Production company": "Warner Bros. Pictures",
+    "Distributed by": "Warner Bros. Pictures",
+    "Release dates": [
+      "June 18, 2021 ( 2021-06-18 ) ( Tribeca Film Festival )",
+      "July 1, 2021 ( 2021-07-01 ) (United States)"
+    ],
+    "Running time": "115 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Running time (int)": 115,
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Release date (datetime)": null,
+    "imdb": "6.4",
+    "metascore": "76",
+    "rotten_tomatoes": "92%"
+  },
+  {
+    "title": "Stillwater",
+    "Directed by": "Tom McCarthy",
+    "Written by": [
+      "Tom McCarthy",
+      "Marcus Hinchey",
+      "Thomas Bidegain",
+      "Noé Debré"
+    ],
+    "Produced by": [
+      "Steve Golin",
+      "Tom McCarthy",
+      "Jonathan King",
+      "Liza Chasin"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Camille Cottin",
+      "Abigail Breslin"
+    ],
+    "Cinematography": "Masanobu Takayanagi",
+    "Edited by": "Tom McArdle",
+    "Music by": "Mychael Danna",
+    "Production companies": [
+      "Participant",
+      "DreamWorks Pictures",
+      "Slow Pony",
+      "Anonymous Content",
+      "3dot Productions",
+      "Supernatural Pictures"
+    ],
+    "Distributed by": "Focus Features",
+    "Release dates": [
+      "July 8, 2021 ( 2021-07-08 ) ( Cannes )",
+      "July 30, 2021 ( 2021-07-30 ) (United States)"
+    ],
+    "Running time": "140 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "French"
+    ],
+    "Budget": "$20 million",
+    "Box office": "$19.8 million",
+    "Running time (int)": 140,
+    "Budget (float)": 20000000.0,
+    "Box office (float)": 19800000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.6",
+    "metascore": "60",
+    "rotten_tomatoes": "75%"
+  },
+  {
+    "title": "The Last Duel",
+    "Directed by": "Ridley Scott",
+    "Screenplay by": [
+      "Nicole Holofcener",
+      "Ben Affleck",
+      "Matt Damon"
+    ],
+    "Based on": [
+      "The Last Duel: A True Story of Crime, Scandal, and Trial by Combat in Medieval France",
+      "by",
+      "Eric Jager"
+    ],
+    "Produced by": [
+      "Ridley Scott",
+      "Kevin J. Walsh",
+      "Jennifer Fox",
+      "Nicole Holofcener",
+      "Matt Damon",
+      "Ben Affleck"
+    ],
+    "Starring": [
+      "Matt Damon",
+      "Adam Driver",
+      "Jodie Comer",
+      "Ben Affleck"
+    ],
+    "Cinematography": "Dariusz Wolski",
+    "Edited by": "Claire Simpson",
+    "Music by": "Harry Gregson-Williams",
+    "Production companies": [
+      "Scott Free Productions",
+      "Pearl Street Films",
+      "TSG Entertainment"
+    ],
+    "Distributed by": "20th Century Studios",
+    "Release dates": [
+      "September 10, 2021 ( 2021-09-10 ) ( Venice )",
+      "October 15, 2021 ( 2021-10-15 ) (United Kingdom and United States)"
+    ],
+    "Running time": "153 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$100 million",
+    "Box office": "$30.6 million",
+    "Running time (int)": 153,
+    "Budget (float)": 100000000.0,
+    "Box office (float)": 30600000.0,
+    "Release date (datetime)": null,
+    "imdb": "7.4",
+    "metascore": "67",
+    "rotten_tomatoes": "85%"
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "Directed by": "Taika Waititi",
+    "Written by": [
+      "Taika Waititi",
+      "Jennifer Kaytin Robinson"
+    ],
+    "Based on": "Marvel Comics",
+    "Produced by": [
+      "Kevin Feige",
+      "Brad Winderbaum"
+    ],
+    "Starring": [
+      "Chris Hemsworth",
+      "Christian Bale",
+      "Tessa Thompson",
+      "Jaimie Alexander",
+      "Taika Waititi",
+      "Russell Crowe",
+      "Natalie Portman"
+    ],
+    "Cinematography": "Barry Idoine",
+    "Edited by": [
+      "Matthew Schmidt",
+      "Peter S. Elliot",
+      "Tim Roche",
+      "Jennifer Vecchiarello"
+    ],
+    "Music by": [
+      "Michael Giacchino (score and themes)",
+      "Nami Melumad (score)"
+    ],
+    "Production company": "Marvel Studios",
+    "Distributed by": [
+      "Walt Disney Studios",
+      "Motion Pictures"
+    ],
+    "Release dates": [
+      "June 23, 2022 ( 2022-06-23 ) ( El Capitan Theatre )",
+      "July 8, 2022 ( 2022-07-08 ) (United States)"
+    ],
+    "Running time": "118 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$250 million",
+    "Box office": "$760.9 million",
+    "Running time (int)": 118,
+    "Budget (float)": 250000000.0,
+    "Box office (float)": 760900000.0,
+    "Release date (datetime)": null,
+    "imdb": "6.4",
+    "metascore": "57",
+    "rotten_tomatoes": "64%"
+  },
+  {
+    "title": "Oppenheimer",
+    "Directed by": "Christopher Nolan",
+    "Written by": "Christopher Nolan",
+    "Based on": [
+      "Kai Bird",
+      "Martin J. Sherwin"
+    ],
+    "Produced by": [
+      "Christopher Nolan",
+      "Emma Thomas",
+      "Charles Roven"
+    ],
+    "Starring": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Florence Pugh"
+    ],
+    "Cinematography": "Hoyte van Hoytema",
+    "Edited by": "Jennifer Lame",
+    "Music by": "Ludwig Göransson",
+    "Production companies": [
+      "Syncopy Inc.",
+      "Atlas Entertainment"
+    ],
+    "Distributed by": "Universal Pictures",
+    "Release date": [
+      "July 21, 2023 ( 2023-07-21 ) (United States)"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$100 million",
+    "Running time (int)": null,
+    "Budget (float)": 100000000.0,
+    "Box office (float)": null,
+    "Release date (datetime)": "July 21, 2023",
+    "imdb": "8.3",
+    "metascore": "N/A",
+    "rotten_tomatoes": null
+  },
+  {
+    "title": "The People Speak",
+    "Directed by": [
+      "Howard Zinn",
+      "Chris Moore",
+      "Anthony Arnove"
+    ],
+    "Written by": [
+      "Howard Zinn",
+      "Anthony Arnove"
+    ],
+    "Based on": [
+      "Howard Zinn",
+      "Voices of a People's History of the United States",
+      "by Howard Zinn",
+      "Anthony Arnove"
+    ],
+    "Produced by": [
+      "Dan Abrams",
+      "Ara Katz",
+      "Art Spigel",
+      "David G. Johnson",
+      "Craig Roessler",
+      "Jesse Singer",
+      "Carolyn Mugar",
+      "Jodie Evans",
+      "Max Palevsky"
+    ],
+    "Music by": "Pieter A. Schlosser",
+    "Release dates": [
+      "February 2009 ( 2009-02 ) (MoMA)",
+      "December 13, 2009 ( 2009-12-13 )"
+    ],
+    "Country": "United States",
+    "Language": "English",
+    "Running time (int)": null,
+    "Budget (float)": null,
+    "Box office (float)": null,
+    "Release date (datetime)": null,
+    "imdb": "7.3",
+    "metascore": "N/A",
+    "rotten_tomatoes": null
+  }
+]
